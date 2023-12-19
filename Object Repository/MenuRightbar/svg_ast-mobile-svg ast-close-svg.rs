@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_ast-mobile-svg ast-close-svg</name>
+   <tag></tag>
+   <elementGuidId>3d00eb0c-0dff-49c1-b588-31e54d03af9d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ast-svg-iconset > span.ahfb-svg-iconset.ast-inline-flex.svg-baseline > svg.ast-mobile-svg.ast-close-svg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>94e8a10e-a58b-4d4f-887e-dccfac02cef1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ast-mobile-svg ast-close-svg</value>
+      <webElementGuid>29d9f6f4-3007-46e5-9f5a-a37fe952ebde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>70efd5a9-d354-4e5b-af0f-efcff7ecb003</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>version</name>
+      <type>Main</type>
+      <value>1.1</value>
+      <webElementGuid>30da42b7-f516-446d-87b0-5e8942a8cfe4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>b294ef73-9bb5-4077-94b1-3449ac586ede</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>3c7637c1-3e06-425c-bd73-518f2899c9a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>d518e503-f173-4c53-8978-6198bbad0873</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>61dc6812-7143-4ba0-a551-d3d9ce4e0ff6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-toggle-close&quot;)/span[@class=&quot;ast-svg-iconset&quot;]/span[@class=&quot;ahfb-svg-iconset ast-inline-flex svg-baseline&quot;]/svg[@class=&quot;ast-mobile-svg ast-close-svg&quot;]</value>
+      <webElementGuid>baad7639-3ffc-438b-9c97-f5da7e0f6880</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

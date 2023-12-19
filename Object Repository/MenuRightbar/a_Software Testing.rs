@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Software Testing</name>
+   <tag></tag>
+   <elementGuidId>5ada759e-a84a-4100-83d2-fab4928266dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//ul[@id='ast-hf-menu-1']/li/ul/li/a)[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-has-children.menu-item-25842.ast-submenu-expanded > ul.sub-menu > li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-352 > a.menu-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1d291da6-5361-4d59-91f0-febc32530dae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://nlrisqitww-chaca.savviihq.com/software-testing/</value>
+      <webElementGuid>258f4d30-73dc-428a-aabd-c10d486e1160</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-link</value>
+      <webElementGuid>cd7f9027-2f19-4d43-a17b-97948c6e6bbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Software Testing</value>
+      <webElementGuid>360ea081-190e-4f1b-8a80-301b486c332c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ast-mobile-popup&quot;)/div[@class=&quot;ast-mobile-popup-inner&quot;]/div[@class=&quot;ast-mobile-popup-content&quot;]/div[@class=&quot;ast-builder-menu-1 ast-builder-menu ast-flex ast-builder-menu-1-focus-item ast-builder-layout-element site-header-focus-item&quot;]/div[@class=&quot;ast-main-header-bar-alignment&quot;]/div[@class=&quot;main-header-bar-navigation&quot;]/nav[@id=&quot;primary-site-navigation&quot;]/div[@class=&quot;main-navigation ast-inline-flex&quot;]/ul[@id=&quot;ast-hf-menu-1&quot;]/li[@class=&quot;menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-25842 ast-submenu-expanded&quot;]/ul[@class=&quot;sub-menu&quot;]/li[@class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-352&quot;]/a[@class=&quot;menu-link&quot;]</value>
+      <webElementGuid>29d90dd5-2b7e-46e5-ae10-71a5e2a4b19d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//ul[@id='ast-hf-menu-1']/li/ul/li/a)[6]</value>
+      <webElementGuid>99aaf3ae-f69a-4acb-a509-e2e695b8a2e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Software Testing')])[2]</value>
+      <webElementGuid>f8746dfd-d062-4da8-8fd2-c5f6d7c1287d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://nlrisqitww-chaca.savviihq.com/software-testing/')])[3]</value>
+      <webElementGuid>31522b6e-b469-40f2-8fe4-a692410dd687</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/nav/div/ul/li/ul/li/a</value>
+      <webElementGuid>753c78d1-411b-4f4e-ad60-3114069472ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://nlrisqitww-chaca.savviihq.com/software-testing/' and (text() = 'Software Testing' or . = 'Software Testing')]</value>
+      <webElementGuid>27210b10-bf4f-46fb-bfac-7fb979f6d4d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

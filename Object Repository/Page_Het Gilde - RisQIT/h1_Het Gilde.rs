@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Het Gilde</name>
+   <tag></tag>
+   <elementGuidId>229b4986-9c46-4e61-8a52-2bfd98f35455</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-361']/header/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.entry-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>716be7a4-8063-4bfa-acec-8e6367ce1d7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>entry-title</value>
+      <webElementGuid>85784caa-9a61-42ea-8e78-5db3f14cce4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>itemprop</name>
+      <type>Main</type>
+      <value>headline</value>
+      <webElementGuid>539e1aee-12ff-4282-aa2b-e3168c53220d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Het Gilde</value>
+      <webElementGuid>213341c8-d848-41df-9329-38b7dc47f897</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-361&quot;)/header[@class=&quot;entry-header ast-no-thumbnail&quot;]/h1[@class=&quot;entry-title&quot;]</value>
+      <webElementGuid>3268ffba-ef57-4095-9331-f85355666d35</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-361']/header/h1</value>
+      <webElementGuid>afd43fc2-f190-4a48-9570-af17e353a431</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>06d19e2f-0feb-4500-9282-53493b7a7565</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Het Gilde' or . = 'Het Gilde')]</value>
+      <webElementGuid>b4407275-d430-4e6e-a00c-c0541d3d89f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

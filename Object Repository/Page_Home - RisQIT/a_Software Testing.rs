@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Software Testing</name>
+   <tag></tag>
+   <elementGuidId>2ff21916-79c0-4938-bc3d-6fe6d8391830</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//ul[@id='ast-hf-menu-1']/li/ul/li/a)[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-has-children.menu-item-25842.ast-submenu-expanded > ul.sub-menu > li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-352 > a.menu-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a886f8d6-887b-4d6c-b4d7-374afebb84d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://nlrisqitww-chaca.savviihq.com/software-testing/</value>
+      <webElementGuid>4ff41e21-8146-44f6-bd0e-394f99464ca1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-link</value>
+      <webElementGuid>f4c061c7-a2f5-483f-bee9-4543ab7f893c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Software Testing</value>
+      <webElementGuid>555e06ab-4724-4843-bc66-1513d5fb263a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ast-mobile-popup&quot;)/div[@class=&quot;ast-mobile-popup-inner&quot;]/div[@class=&quot;ast-mobile-popup-content&quot;]/div[@class=&quot;ast-builder-menu-1 ast-builder-menu ast-flex ast-builder-menu-1-focus-item ast-builder-layout-element site-header-focus-item&quot;]/div[@class=&quot;ast-main-header-bar-alignment&quot;]/div[@class=&quot;main-header-bar-navigation&quot;]/nav[@id=&quot;primary-site-navigation&quot;]/div[@class=&quot;main-navigation ast-inline-flex&quot;]/ul[@id=&quot;ast-hf-menu-1&quot;]/li[@class=&quot;menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-25842 ast-submenu-expanded&quot;]/ul[@class=&quot;sub-menu&quot;]/li[@class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-352&quot;]/a[@class=&quot;menu-link&quot;]</value>
+      <webElementGuid>de2ec955-946f-436e-9adf-8e5b8004154b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//ul[@id='ast-hf-menu-1']/li/ul/li/a)[7]</value>
+      <webElementGuid>ac9b7f04-0865-4b26-8571-26706369d8c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Software Testing')])[2]</value>
+      <webElementGuid>bd6af9fb-90c4-43cb-886e-65358ed59ec0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://nlrisqitww-chaca.savviihq.com/software-testing/')])[3]</value>
+      <webElementGuid>f6eacf02-1af4-4a0a-8ac1-941f522a4e40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/nav/div/ul/li/ul/li/a</value>
+      <webElementGuid>dba53854-5589-4fe3-9010-5057bebba050</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://nlrisqitww-chaca.savviihq.com/software-testing/' and (text() = 'Software Testing' or . = 'Software Testing')]</value>
+      <webElementGuid>6d13d6b1-f257-48f5-9651-bcc847c7c0c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-352']/a</value>
+      <webElementGuid>6c24be4d-ac4b-4355-ab4a-98f2a7274936</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Software Testing')]</value>
+      <webElementGuid>ee533cae-4777-4e22-bb01-1f626ed73f2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://nlrisqitww-chaca.savviihq.com/software-testing/')]</value>
+      <webElementGuid>441fa8d7-d6cc-471c-ac99-c9f36660777e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul/li/a</value>
+      <webElementGuid>f30c45b8-5e40-4988-92af-719aa443d11e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

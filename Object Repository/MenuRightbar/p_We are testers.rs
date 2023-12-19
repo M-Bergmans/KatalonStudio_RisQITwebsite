@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_We are testers</name>
+   <tag></tag>
+   <elementGuidId>b2240b70-6062-49f6-ade7-54ebc49b1d28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-24365']/div/div/div/div/div[2]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.uagb-heading-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>cdd9120f-0f1b-45cb-b35c-2bb6a21931c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>uagb-heading-text</value>
+      <webElementGuid>d5177055-4578-42be-b8c4-fe54d1087cdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>We are testers</value>
+      <webElementGuid>702ef03d-e135-4d43-9f10-aa868b17a1b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-24365&quot;)/div[@class=&quot;entry-content clear&quot;]/div[@class=&quot;wp-block-uagb-container uagb-block-f0643db9 alignfull uagb-is-root-container&quot;]/div[@class=&quot;uagb-container-inner-blocks-wrap&quot;]/div[@class=&quot;wp-block-uagb-container uagb-block-3c4d7681&quot;]/div[@class=&quot;wp-block-uagb-advanced-heading uagb-block-d357a015&quot;]/p[@class=&quot;uagb-heading-text&quot;]</value>
+      <webElementGuid>338cdd42-f1c2-4598-bf13-1db30e3070e3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-24365']/div/div/div/div/div[2]/p</value>
+      <webElementGuid>adb1eb85-2c3e-413c-bec1-ebf03944044b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>fe82dc27-e1c9-4c8d-8f5d-ff856d7906f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'We are testers' or . = 'We are testers')]</value>
+      <webElementGuid>1df0ff2d-1adb-4ed5-a0c6-8a3106a09b85</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

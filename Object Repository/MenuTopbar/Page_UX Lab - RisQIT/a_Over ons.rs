@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Over ons</name>
+   <tag></tag>
+   <elementGuidId>74935898-1f74-4cd9-a22b-a8d22a2a8f2c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-355']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-355 > a.menu-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>dcc288b2-5755-4183-b41d-42e6daaf5a42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://nlrisqitww-chaca.savviihq.com/over-ons/</value>
+      <webElementGuid>b79c4ae5-0934-4639-8d7d-1dde16ec6721</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-link</value>
+      <webElementGuid>c329132a-a0bd-479a-8282-c7a5fd9d132f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Over ons</value>
+      <webElementGuid>2df1051f-6518-4edd-8d5b-c4149d9e88af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-355&quot;)/a[@class=&quot;menu-link&quot;]</value>
+      <webElementGuid>7bdf0a24-bffd-4ea2-98ce-615c63fcf3cd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-355']/a</value>
+      <webElementGuid>3fa813c2-299a-41b4-bb5a-12e8749fddec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Over ons')]</value>
+      <webElementGuid>3c4c2793-5b70-48ce-be69-89b51ffa51e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://nlrisqitww-chaca.savviihq.com/over-ons/')]</value>
+      <webElementGuid>ec20c5b7-4866-4e5b-b94a-d567c0277f0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a</value>
+      <webElementGuid>c540afa8-3d2e-40ef-a22c-14e585e594cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://nlrisqitww-chaca.savviihq.com/over-ons/' and (text() = 'Over ons' or . = 'Over ons')]</value>
+      <webElementGuid>cfd4a41c-a2a4-4128-b16c-c76404f06208</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

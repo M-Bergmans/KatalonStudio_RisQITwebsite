@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_UX Lab</name>
+   <tag></tag>
+   <elementGuidId>9c530d53-37c2-4576-89c5-8d632bd4a2ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-350']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-350 > a.menu-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e57df44b-e880-4015-81aa-c90f037eb792</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://nlrisqitww-chaca.savviihq.com/ux-lab/</value>
+      <webElementGuid>1f253354-0b39-4f84-a1a1-0427898ad1a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-link</value>
+      <webElementGuid>c2f56b56-9c85-41e2-845e-d4b8c8809e1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>UX Lab</value>
+      <webElementGuid>b38987c8-94e4-40e7-8055-139b8ec65b9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-350&quot;)/a[@class=&quot;menu-link&quot;]</value>
+      <webElementGuid>a380c0a3-b1b5-4806-9a61-dab2ab922e46</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-350']/a</value>
+      <webElementGuid>5c3f0ec9-fa93-4431-81f9-bbd40877157b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'UX Lab')]</value>
+      <webElementGuid>eda41811-8b67-44d0-bda4-e781a4df7551</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://nlrisqitww-chaca.savviihq.com/ux-lab/')]</value>
+      <webElementGuid>482b47c8-e5e8-4b49-a32f-0a93a035d3f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul/li[3]/a</value>
+      <webElementGuid>97509537-f22c-4dd5-980b-ce23dfef4f7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://nlrisqitww-chaca.savviihq.com/ux-lab/' and (text() = 'UX Lab' or . = 'UX Lab')]</value>
+      <webElementGuid>4410033e-ff8a-400f-965f-d4810b2d8a92</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

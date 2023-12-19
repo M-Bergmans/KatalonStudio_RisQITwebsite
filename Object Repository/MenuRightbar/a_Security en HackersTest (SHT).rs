@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Security en HackersTest (SHT)</name>
+   <tag></tag>
+   <elementGuidId>47700ea8-a742-4d43-9389-f454e3126727</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//ul[@id='ast-hf-menu-1']/li/ul/li[2]/a)[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-has-children.menu-item-25842.ast-submenu-expanded > ul.sub-menu > li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-351 > a.menu-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>427d57d3-def9-47e3-a6f1-6411259dc4ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://nlrisqitww-chaca.savviihq.com/security-en-hackerstest-sht/</value>
+      <webElementGuid>9d8218b7-40de-4819-9475-a582cc698d37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-link</value>
+      <webElementGuid>222ad8bd-8caf-45f3-9ce4-a74751e2a6f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Security en HackersTest (SHT)</value>
+      <webElementGuid>fb29a73b-3f3a-4d9e-ad9a-09dbd0ea337a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ast-mobile-popup&quot;)/div[@class=&quot;ast-mobile-popup-inner&quot;]/div[@class=&quot;ast-mobile-popup-content&quot;]/div[@class=&quot;ast-builder-menu-1 ast-builder-menu ast-flex ast-builder-menu-1-focus-item ast-builder-layout-element site-header-focus-item&quot;]/div[@class=&quot;ast-main-header-bar-alignment&quot;]/div[@class=&quot;main-header-bar-navigation&quot;]/nav[@id=&quot;primary-site-navigation&quot;]/div[@class=&quot;main-navigation ast-inline-flex&quot;]/ul[@id=&quot;ast-hf-menu-1&quot;]/li[@class=&quot;menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-25842 ast-submenu-expanded&quot;]/ul[@class=&quot;sub-menu&quot;]/li[@class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-351&quot;]/a[@class=&quot;menu-link&quot;]</value>
+      <webElementGuid>b33a580f-43b8-4408-8a62-9fe0662aa50c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//ul[@id='ast-hf-menu-1']/li/ul/li[2]/a)[3]</value>
+      <webElementGuid>b13a95bd-576d-4217-9604-d2ca48c4cd5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Security en HackersTest (SHT)')])[2]</value>
+      <webElementGuid>e8fa7d9c-3dbe-4357-874d-3c6e5aa7786c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://nlrisqitww-chaca.savviihq.com/security-en-hackerstest-sht/')])[3]</value>
+      <webElementGuid>48b30c37-3d6a-4828-8313-742abf149236</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/nav/div/ul/li/ul/li[2]/a</value>
+      <webElementGuid>a8422fa2-df91-47b3-a86c-4623019616e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://nlrisqitww-chaca.savviihq.com/security-en-hackerstest-sht/' and (text() = 'Security en HackersTest (SHT)' or . = 'Security en HackersTest (SHT)')]</value>
+      <webElementGuid>cbc2983b-61f7-4084-8486-964dddcce62b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Je kent ongetwijfeld de voortdurende disc_07a5c4</name>
+   <tag></tag>
+   <elementGuidId>dcd059ea-9e0a-4f92-bc2b-d133c3619dbd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-25761']/div/div[2]/article[5]/div[3]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>62b11ab2-8ae5-4959-aa79-9d69c209daaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Je kent ongetwijfeld de voortdurende discussie: automatisch testen of handmatig testen? In onze eerdere blog,…				</value>
+      <webElementGuid>bfe2a57c-47e8-47d0-ba6c-9dd685302664</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-25761&quot;)/div[@class=&quot;entry-content clear&quot;]/div[@class=&quot;wp-block-uagb-post-grid uagb-post-grid  uagb-post__image-position-top uagb-post__image-enabled uagb-block-222e02ed     uagb-post__items uagb-post__columns-3 is-grid uagb-post__columns-tablet-2 uagb-post__columns-mobile-1 uagb-post__equal-height&quot;]/article[@class=&quot;uagb-post__inner-wrap&quot;]/div[@class=&quot;uagb-post__text uagb-post__excerpt&quot;]/p[1]</value>
+      <webElementGuid>4fa458ee-5a36-49be-8344-4f98ab853894</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-25761']/div/div[2]/article[5]/div[3]/p</value>
+      <webElementGuid>71084b32-827a-44c8-80d3-79c8457137db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article[5]/div[3]/p</value>
+      <webElementGuid>a1d00385-0ad3-4143-8803-1d051944e7c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Je kent ongetwijfeld de voortdurende discussie: automatisch testen of handmatig testen? In onze eerdere blog,…				' or . = 'Je kent ongetwijfeld de voortdurende discussie: automatisch testen of handmatig testen? In onze eerdere blog,…				')]</value>
+      <webElementGuid>68823e46-41c8-4b3a-94a3-e1022ca665f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

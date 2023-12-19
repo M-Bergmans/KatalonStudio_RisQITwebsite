@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Over ons</name>
+   <tag></tag>
+   <elementGuidId>bd7a81a5-103a-4e90-b385-9f9c3580d640</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//ul[@id='ast-hf-menu-1']/li[2]/a)[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ast-mobile-popup-content > div.ast-builder-menu-1.ast-builder-menu.ast-flex.ast-builder-menu-1-focus-item.ast-builder-layout-element.site-header-focus-item > div.ast-main-header-bar-alignment > div.main-header-bar-navigation > #primary-site-navigation > div.main-navigation.ast-inline-flex > #ast-hf-menu-1 > li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-has-children.menu-item-355 > a.menu-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c59c7257-7881-4939-b74c-3fe1ca25b35d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://nlrisqitww-chaca.savviihq.com/over-ons/</value>
+      <webElementGuid>6290d63b-da4c-4fa4-aaaa-0d88e5f27a0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-link</value>
+      <webElementGuid>8d2c2ed9-e313-4d5f-b12d-3a8d02396875</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Over ons</value>
+      <webElementGuid>6826dc5e-8ce1-41aa-a9e3-eb6d31273f44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ast-mobile-popup&quot;)/div[@class=&quot;ast-mobile-popup-inner&quot;]/div[@class=&quot;ast-mobile-popup-content&quot;]/div[@class=&quot;ast-builder-menu-1 ast-builder-menu ast-flex ast-builder-menu-1-focus-item ast-builder-layout-element site-header-focus-item&quot;]/div[@class=&quot;ast-main-header-bar-alignment&quot;]/div[@class=&quot;main-header-bar-navigation&quot;]/nav[@id=&quot;primary-site-navigation&quot;]/div[@class=&quot;main-navigation ast-inline-flex&quot;]/ul[@id=&quot;ast-hf-menu-1&quot;]/li[@class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-355&quot;]/a[@class=&quot;menu-link&quot;]</value>
+      <webElementGuid>01076777-dc27-40a1-959a-cd494bba67b1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//ul[@id='ast-hf-menu-1']/li[2]/a)[2]</value>
+      <webElementGuid>d3ae181f-fa53-4598-a670-38a3a895944c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Over ons')])[2]</value>
+      <webElementGuid>f843ccf1-c88e-46d1-8b3a-47fb85d85a40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://nlrisqitww-chaca.savviihq.com/over-ons/')])[5]</value>
+      <webElementGuid>ffe4c512-286d-4d11-8a96-26809e65fb9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/nav/div/ul/li[2]/a</value>
+      <webElementGuid>be451440-d065-47d0-89be-abbb2c6e189e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://nlrisqitww-chaca.savviihq.com/over-ons/' and (text() = 'Over ons' or . = 'Over ons')]</value>
+      <webElementGuid>2d3694f6-095f-4199-aa55-5540ca25ffbe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
