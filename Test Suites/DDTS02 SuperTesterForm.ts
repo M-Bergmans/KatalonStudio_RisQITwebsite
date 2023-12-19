@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>DDTS02 SuperTesterForm</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>6a7dbe7f-2831-46c2-8f0f-69b0a0098c62</testSuiteGuid>
+   <testCaseLink>
+      <guid>5399664b-967a-4297-a7b0-32b312451ce2</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Forms/RT015 SuperTesterForm</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>900b1f5c-0b9c-4670-8c11-c02dbf92d6da</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TestData_SuperTesterForm</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>900b1f5c-0b9c-4670-8c11-c02dbf92d6da</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>fd585613-1a7f-4eb1-bfc0-3fc60cdecfe9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>900b1f5c-0b9c-4670-8c11-c02dbf92d6da</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Telefoon</value>
+         <variableId>c2813e02-c7ac-481a-94b3-4e205a0646be</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>900b1f5c-0b9c-4670-8c11-c02dbf92d6da</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Voornaam</value>
+         <variableId>44379b88-8666-4e76-a5e6-593cb3e79d96</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>900b1f5c-0b9c-4670-8c11-c02dbf92d6da</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Achternaam</value>
+         <variableId>34515f34-da6d-4ee2-95cd-b28357c0c3e8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>900b1f5c-0b9c-4670-8c11-c02dbf92d6da</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Bedrijf</value>
+         <variableId>a00b6d7c-fe14-4301-9ef3-c5f8696b2d69</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

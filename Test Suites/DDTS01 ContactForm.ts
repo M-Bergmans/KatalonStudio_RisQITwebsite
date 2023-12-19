@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>DDTS01 ContactForm</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>2955c7b2-9ba1-4051-a812-230744c9b283</testSuiteGuid>
+   <testCaseLink>
+      <guid>379bace2-f54e-4bab-9b76-0deb72f96f05</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Forms/RT014 ContactForm</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>61a2a8af-011f-4bad-af91-f291e9ba0d0d</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TestData_Contactform</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>61a2a8af-011f-4bad-af91-f291e9ba0d0d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Naam</value>
+         <variableId>8994ea11-daac-40e1-8652-b6da0d7c4ca6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>61a2a8af-011f-4bad-af91-f291e9ba0d0d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Adres</value>
+         <variableId>15d13a48-b563-4462-a823-9738d4afb068</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>61a2a8af-011f-4bad-af91-f291e9ba0d0d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Woonplaats</value>
+         <variableId>a2e735c6-7715-4ff4-86a5-d66a05b9ab61</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>61a2a8af-011f-4bad-af91-f291e9ba0d0d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>132f2410-3349-45f0-9e77-6f6e4e03573c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>61a2a8af-011f-4bad-af91-f291e9ba0d0d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Telefoon</value>
+         <variableId>1b9d938e-d8fc-4367-a660-a52b3af11fcb</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>61a2a8af-011f-4bad-af91-f291e9ba0d0d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Opmerking</value>
+         <variableId>02592e1c-33b2-4a56-bdef-9e825ded799a</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
