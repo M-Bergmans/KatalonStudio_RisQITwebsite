@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Missie  Visie</name>
+   <tag></tag>
+   <elementGuidId>51df3717-1c0a-45d9-9206-7ac4d820bded</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-365']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-365 > a.menu-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>86920c0b-0a02-4dc3-b69f-d34f8a3b2a01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://nlrisqitww-chaca.savviihq.com/over-ons/missie-visie/</value>
+      <webElementGuid>ac5c2488-1893-4f7a-a595-350b4686d93c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-link</value>
+      <webElementGuid>42ec3dc6-c954-42d0-8cbc-f678c9a985f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Missie &amp; Visie</value>
+      <webElementGuid>17c5fa74-d83a-416f-9111-c4e52a2345d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-365&quot;)/a[@class=&quot;menu-link&quot;]</value>
+      <webElementGuid>7979775b-ffe2-440d-878a-39dde07a13e7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-365']/a</value>
+      <webElementGuid>e21e6266-2eed-4d54-90a6-d1cf3739a1db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Missie &amp; Visie')]</value>
+      <webElementGuid>63ccbf33-e42f-4e9a-ba02-57b070a499e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://nlrisqitww-chaca.savviihq.com/over-ons/missie-visie/')]</value>
+      <webElementGuid>c3d2ff3a-742d-4bcd-aa9d-acf6a45cd602</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li/a</value>
+      <webElementGuid>6cb08a62-742f-4f56-a048-a285633f7950</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://nlrisqitww-chaca.savviihq.com/over-ons/missie-visie/' and (text() = 'Missie &amp; Visie' or . = 'Missie &amp; Visie')]</value>
+      <webElementGuid>4549c504-684d-4f36-90a8-46b4f11bfd7f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

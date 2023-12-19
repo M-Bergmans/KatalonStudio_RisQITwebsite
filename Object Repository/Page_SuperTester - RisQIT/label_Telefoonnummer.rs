@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Telefoonnummer</name>
+   <tag></tag>
+   <elementGuidId>ba10006f-68dc-4698-9c25-d60bd2aa755c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mc_embed_signup_scroll']/div[3]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mc-field-group.size1of2 > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>f6251f18-0e21-4336-ad2a-41c44bf10c7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>mce-PHONE</value>
+      <webElementGuid>d64b6354-1d6c-4473-a92e-afefd4c6ad9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Telefoonnummer </value>
+      <webElementGuid>f512693b-c624-4715-a538-013a4c034358</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mc_embed_signup_scroll&quot;)/div[@class=&quot;mc-field-group size1of2&quot;]/label[1]</value>
+      <webElementGuid>436e7a5f-d015-47fe-94a7-42828e53e522</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mc_embed_signup_scroll']/div[3]/label</value>
+      <webElementGuid>067fb2d1-ffa2-4923-8cc9-9b769971759f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/label</value>
+      <webElementGuid>86b4f5b0-4345-479c-a813-322cf1e0ee44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Telefoonnummer ' or . = 'Telefoonnummer ')]</value>
+      <webElementGuid>90d96a9c-f049-4467-833c-a9e287644e6c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_404 - Pagina niet gevonden</name>
+   <tag></tag>
+   <elementGuidId>925112de-7277-431a-82bc-1074f6310a76</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='primary']/section/div/div/div/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>8ba8b6fd-2238-4909-aaa5-77cead80a118</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>404 - Pagina niet gevonden.</value>
+      <webElementGuid>48e30a25-5e25-46e2-91f4-c25312e7917c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;primary&quot;)/section[@class=&quot;error-404 not-found&quot;]/div[@class=&quot;astra-advanced-hook-25987&quot;]/div[@class=&quot;wp-block-uagb-container uagb-block-44c3a6c0 alignfull uagb-is-root-container&quot;]/div[@class=&quot;uagb-container-inner-blocks-wrap&quot;]/h1[1]</value>
+      <webElementGuid>333c4fea-3c2a-4808-ae80-cb0a764fb1b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='primary']/section/div/div/div/h1</value>
+      <webElementGuid>f76d45d8-cc25-47f8-ab1c-50450e3b6cef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>89fb0d2e-d622-41ca-9d5a-63472a422056</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = '404 - Pagina niet gevonden.' or . = '404 - Pagina niet gevonden.')]</value>
+      <webElementGuid>e8714967-436f-49d2-9d7e-1e9b341cf9d4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
