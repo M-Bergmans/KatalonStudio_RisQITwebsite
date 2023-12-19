@@ -1,0 +1,50 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+DDTS01 With MS Excel,Chrome 120.0.0.0,,,2023-12-19 11:19:20,2023-12-19 11:19:46,"26,195s",PASSED
+,,,,,,,
+Test Cases/Forms/RT014 ContactForm,Chrome 120.0.0.0,,,2023-12-19 11:19:20,2023-12-19 11:19:33,"13,631s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-19 11:19:20,2023-12-19 11:19:21,"1,282s",PASSED
+"navigateToUrl(""https://nlrisqitww-chaca.savviihq.com/"")",Chrome 120.0.0.0,,,2023-12-19 11:19:21,2023-12-19 11:19:22,"0,306s",PASSED
+"click(findTestObject(""Object Repository/Page_Home - RisQIT/div_Contact opnemen""))",Chrome 120.0.0.0,,,2023-12-19 11:19:22,2023-12-19 11:19:22,"0,508s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Contact - RisQIT/h1_Contact""), ""Contact"")",Chrome 120.0.0.0,,,2023-12-19 11:19:22,2023-12-19 11:19:23,"0,596s",PASSED
+"click(findTestObject(""Object Repository/Page_Contact - RisQIT/input_naam""), STOP_ON_FAILURE)",Chrome 120.0.0.0,,,2023-12-19 11:19:23,2023-12-19 11:19:23,"0,316s",PASSED
+"setText(findTestObject(""Object Repository/Page_Contact - RisQIT/input_naam""), Naam)",Chrome 120.0.0.0,,,2023-12-19 11:19:23,2023-12-19 11:19:24,"1,103s",PASSED
+"setText(findTestObject(""Object Repository/Page_Contact - RisQIT/input_adres""), Adres)",Chrome 120.0.0.0,,,2023-12-19 11:19:24,2023-12-19 11:19:25,"0,596s",PASSED
+"setText(findTestObject(""Object Repository/Page_Contact - RisQIT/input_woonplaats""), Woonplaats)",Chrome 120.0.0.0,,,2023-12-19 11:19:25,2023-12-19 11:19:26,"0,813s",PASSED
+"setText(findTestObject(""Object Repository/Page_Contact - RisQIT/input_e-mail""), Email)",Chrome 120.0.0.0,,,2023-12-19 11:19:26,2023-12-19 11:19:26,"0,814s",PASSED
+"setText(findTestObject(""Object Repository/Page_Contact - RisQIT/input_Telefoon""), Telefoon)",Chrome 120.0.0.0,,,2023-12-19 11:19:26,2023-12-19 11:19:27,"0,833s",PASSED
+"setText(findTestObject(""Object Repository/Page_Contact - RisQIT/input_opmerking""), Opmerking)",Chrome 120.0.0.0,,,2023-12-19 11:19:27,2023-12-19 11:19:28,"0,789s",PASSED
+"click(findTestObject(""Page_Contact - RisQIT/chkbx_PrivacybeleidAkkoord""))",Chrome 120.0.0.0,,,2023-12-19 11:19:28,2023-12-19 11:19:29,"0,527s",PASSED
+"click(findTestObject(""Object Repository/Page_Contact - RisQIT/btn_submit""))",Chrome 120.0.0.0,,,2023-12-19 11:19:29,2023-12-19 11:19:29,"0,543s",PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Contact - RisQIT/div_Er is een fout opgetreden bij het verst_b79445""), 0)",Chrome 120.0.0.0,,,2023-12-19 11:19:29,2023-12-19 11:19:30,"0,522s",PASSED
+"click(findTestObject(""Object Repository/Page_Contact - RisQIT/div_Er is een fout opgetreden bij het verst_aab0ca""))",Chrome 120.0.0.0,,,2023-12-19 11:19:30,2023-12-19 11:19:30,"0,318s",PASSED
+"setText(findTestObject(""Object Repository/Page_Contact - RisQIT/input_opmerking""), """")",Chrome 120.0.0.0,,,2023-12-19 11:19:30,2023-12-19 11:19:31,"0,815s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Contact - RisQIT/warning_Het veld is verplicht""), ""Het veld is verplicht."")",Chrome 120.0.0.0,,,2023-12-19 11:19:31,2023-12-19 11:19:31,"0,282s",PASSED
+"setText(findTestObject(""Object Repository/Page_Contact - RisQIT/input_e-mail""), """")",Chrome 120.0.0.0,,,2023-12-19 11:19:31,2023-12-19 11:19:32,"0,816s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Contact - RisQIT/warning_Het veld is verplicht""), ""Het veld is verplicht."")",Chrome 120.0.0.0,,,2023-12-19 11:19:32,2023-12-19 11:19:32,"0,305s",PASSED
+"setText(findTestObject(""Object Repository/Page_Contact - RisQIT/input_naam""), """")",Chrome 120.0.0.0,,,2023-12-19 11:19:32,2023-12-19 11:19:33,"0,802s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Contact - RisQIT/warning_Het veld is verplicht""), ""Het veld is verplicht."")",Chrome 120.0.0.0,,,2023-12-19 11:19:33,2023-12-19 11:19:33,"0,300s",PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2023-12-19 11:19:33,2023-12-19 11:19:33,"0,126s",PASSED
+,,,,,,,
+Test Cases/Forms/RT014 ContactForm,Chrome 120.0.0.0,,,2023-12-19 11:19:33,2023-12-19 11:19:46,"12,337s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-19 11:19:34,2023-12-19 11:19:34,"0,612s",PASSED
+"navigateToUrl(""https://nlrisqitww-chaca.savviihq.com/"")",Chrome 120.0.0.0,,,2023-12-19 11:19:34,2023-12-19 11:19:34,"0,273s",PASSED
+"click(findTestObject(""Object Repository/Page_Home - RisQIT/div_Contact opnemen""))",Chrome 120.0.0.0,,,2023-12-19 11:19:34,2023-12-19 11:19:35,"0,521s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Contact - RisQIT/h1_Contact""), ""Contact"")",Chrome 120.0.0.0,,,2023-12-19 11:19:35,2023-12-19 11:19:35,"0,175s",PASSED
+"click(findTestObject(""Object Repository/Page_Contact - RisQIT/input_naam""), STOP_ON_FAILURE)",Chrome 120.0.0.0,,,2023-12-19 11:19:35,2023-12-19 11:19:36,"0,432s",PASSED
+"setText(findTestObject(""Object Repository/Page_Contact - RisQIT/input_naam""), Naam)",Chrome 120.0.0.0,,,2023-12-19 11:19:36,2023-12-19 11:19:37,"1,189s",PASSED
+"setText(findTestObject(""Object Repository/Page_Contact - RisQIT/input_adres""), Adres)",Chrome 120.0.0.0,,,2023-12-19 11:19:37,2023-12-19 11:19:37,"0,592s",PASSED
+"setText(findTestObject(""Object Repository/Page_Contact - RisQIT/input_woonplaats""), Woonplaats)",Chrome 120.0.0.0,,,2023-12-19 11:19:37,2023-12-19 11:19:38,"0,813s",PASSED
+"setText(findTestObject(""Object Repository/Page_Contact - RisQIT/input_e-mail""), Email)",Chrome 120.0.0.0,,,2023-12-19 11:19:38,2023-12-19 11:19:39,"0,789s",PASSED
+"setText(findTestObject(""Object Repository/Page_Contact - RisQIT/input_Telefoon""), Telefoon)",Chrome 120.0.0.0,,,2023-12-19 11:19:39,2023-12-19 11:19:40,"0,800s",PASSED
+"setText(findTestObject(""Object Repository/Page_Contact - RisQIT/input_opmerking""), Opmerking)",Chrome 120.0.0.0,,,2023-12-19 11:19:40,2023-12-19 11:19:41,"0,796s",PASSED
+"click(findTestObject(""Page_Contact - RisQIT/chkbx_PrivacybeleidAkkoord""))",Chrome 120.0.0.0,,,2023-12-19 11:19:41,2023-12-19 11:19:41,"0,532s",PASSED
+"click(findTestObject(""Object Repository/Page_Contact - RisQIT/btn_submit""))",Chrome 120.0.0.0,,,2023-12-19 11:19:41,2023-12-19 11:19:42,"0,546s",PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Contact - RisQIT/div_Er is een fout opgetreden bij het verst_b79445""), 0)",Chrome 120.0.0.0,,,2023-12-19 11:19:42,2023-12-19 11:19:42,"0,497s",PASSED
+"click(findTestObject(""Object Repository/Page_Contact - RisQIT/div_Er is een fout opgetreden bij het verst_aab0ca""))",Chrome 120.0.0.0,,,2023-12-19 11:19:42,2023-12-19 11:19:42,"0,301s",PASSED
+"setText(findTestObject(""Object Repository/Page_Contact - RisQIT/input_opmerking""), """")",Chrome 120.0.0.0,,,2023-12-19 11:19:42,2023-12-19 11:19:43,"0,785s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Contact - RisQIT/warning_Het veld is verplicht""), ""Het veld is verplicht."")",Chrome 120.0.0.0,,,2023-12-19 11:19:43,2023-12-19 11:19:43,"0,278s",PASSED
+"setText(findTestObject(""Object Repository/Page_Contact - RisQIT/input_e-mail""), """")",Chrome 120.0.0.0,,,2023-12-19 11:19:43,2023-12-19 11:19:44,"0,798s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Contact - RisQIT/warning_Het veld is verplicht""), ""Het veld is verplicht."")",Chrome 120.0.0.0,,,2023-12-19 11:19:44,2023-12-19 11:19:45,"0,284s",PASSED
+"setText(findTestObject(""Object Repository/Page_Contact - RisQIT/input_naam""), """")",Chrome 120.0.0.0,,,2023-12-19 11:19:45,2023-12-19 11:19:45,"0,780s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Contact - RisQIT/warning_Het veld is verplicht""), ""Het veld is verplicht."")",Chrome 120.0.0.0,,,2023-12-19 11:19:45,2023-12-19 11:19:46,"0,276s",PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2023-12-19 11:19:46,2023-12-19 11:19:46,"0,224s",PASSED

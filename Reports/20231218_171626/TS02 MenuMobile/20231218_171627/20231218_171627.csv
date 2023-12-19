@@ -1,0 +1,79 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS02 MenuMobile,Chrome 120.0.0.0,,,2023-12-18 17:16:34,2023-12-18 17:22:17,"5m - 42,749s",FAILED
+,,,,,,,
+Test Cases/Menu/RT016 MobileMenu - Homepage,Chrome 120.0.0.0,,,2023-12-18 17:16:34,2023-12-18 17:17:05,"30,856s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-18 17:16:35,2023-12-18 17:16:36,"1,483s",PASSED
+navigateToUrl(URL),Chrome 120.0.0.0,,,2023-12-18 17:16:36,2023-12-18 17:16:37,"0,606s",PASSED
+"callTestCase(findTestCase(""Menu/RT000.2 MobileMenu""), [:], STOP_ON_FAILURE)",Chrome 120.0.0.0,,,2023-12-18 17:16:37,2023-12-18 17:17:05,"28,397s",PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2023-12-18 17:17:05,2023-12-18 17:17:05,"0,154s",PASSED
+,,,,,,,
+Test Cases/Menu/RT017 MobileMenu - SoftwareTesting,Chrome 120.0.0.0,,,2023-12-18 17:17:05,2023-12-18 17:17:33,"28,249s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-18 17:17:05,2023-12-18 17:17:06,"0,645s",PASSED
+navigateToUrl(URL + SOFTWARETESTING),Chrome 120.0.0.0,,,2023-12-18 17:17:06,2023-12-18 17:17:06,"0,289s",PASSED
+"callTestCase(findTestCase(""Menu/RT000.2 MobileMenu""), [:], STOP_ON_FAILURE)",Chrome 120.0.0.0,,,2023-12-18 17:17:06,2023-12-18 17:17:33,"27,082s",PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2023-12-18 17:17:33,2023-12-18 17:17:33,"0,140s",PASSED
+,,,,,,,
+Test Cases/Menu/RT018 MobileMenu - SHT,Chrome 120.0.0.0,,,2023-12-18 17:17:33,2023-12-18 17:18:01,"28,018s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-18 17:17:34,2023-12-18 17:17:34,"0,621s",PASSED
+navigateToUrl(URL + SHT),Chrome 120.0.0.0,,,2023-12-18 17:17:34,2023-12-18 17:17:34,"0,243s",PASSED
+"callTestCase(findTestCase(""Menu/RT000.2 MobileMenu""), [:], STOP_ON_FAILURE)",Chrome 120.0.0.0,,,2023-12-18 17:17:34,2023-12-18 17:18:01,"26,946s",PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2023-12-18 17:18:01,2023-12-18 17:18:01,"0,141s",PASSED
+,,,,,,,
+Test Cases/Menu/RT019 MobileMenu - UX-Lab,Chrome 120.0.0.0,,,2023-12-18 17:18:01,2023-12-18 17:18:29,"27,825s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-18 17:18:02,2023-12-18 17:18:02,"0,713s",PASSED
+navigateToUrl(URL + UXLAB),Chrome 120.0.0.0,,,2023-12-18 17:18:02,2023-12-18 17:18:03,"0,247s",PASSED
+"callTestCase(findTestCase(""Menu/RT000.2 MobileMenu""), [:], STOP_ON_FAILURE)",Chrome 120.0.0.0,,,2023-12-18 17:18:03,2023-12-18 17:18:29,"26,649s",PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2023-12-18 17:18:29,2023-12-18 17:18:29,"0,159s",PASSED
+,,,,,,,
+Test Cases/Menu/RT020 MobileMenu - Over Ons,Chrome 120.0.0.0,,,2023-12-18 17:18:29,2023-12-18 17:18:57,"28,101s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-18 17:18:29,2023-12-18 17:18:30,"0,624s",PASSED
+navigateToUrl(URL + OVER_ONS),Chrome 120.0.0.0,,,2023-12-18 17:18:30,2023-12-18 17:18:30,"0,271s",PASSED
+"callTestCase(findTestCase(""Menu/RT000.2 MobileMenu""), [:], STOP_ON_FAILURE)",Chrome 120.0.0.0,,,2023-12-18 17:18:30,2023-12-18 17:18:57,"26,995s",PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2023-12-18 17:18:57,2023-12-18 17:18:57,"0,138s",PASSED
+,,,,,,,
+Test Cases/Menu/RT021 MobileMenu - Missie_Visie,Chrome 120.0.0.0,,,2023-12-18 17:18:57,2023-12-18 17:19:26,"28,313s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-18 17:18:57,2023-12-18 17:18:58,"0,635s",PASSED
+navigateToUrl(URL + OVER_ONS + MISSIE_VISIE),Chrome 120.0.0.0,,,2023-12-18 17:18:58,2023-12-18 17:18:58,"0,252s",PASSED
+"callTestCase(findTestCase(""Menu/RT000.2 MobileMenu""), [:], STOP_ON_FAILURE)",Chrome 120.0.0.0,,,2023-12-18 17:18:58,2023-12-18 17:19:26,"27,224s",PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2023-12-18 17:19:26,2023-12-18 17:19:26,"0,137s",PASSED
+,,,,,,,
+Test Cases/Menu/RT022 MobileMenu - Het Gilde,Chrome 120.0.0.0,,,2023-12-18 17:19:26,2023-12-18 17:19:53,"27,352s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-18 17:19:26,2023-12-18 17:19:26,"0,628s",PASSED
+navigateToUrl(URL + OVER_ONS + HETGILDE),Chrome 120.0.0.0,,,2023-12-18 17:19:26,2023-12-18 17:19:27,"0,256s",PASSED
+"callTestCase(findTestCase(""Menu/RT000.2 MobileMenu""), [:], STOP_ON_FAILURE)",Chrome 120.0.0.0,,,2023-12-18 17:19:27,2023-12-18 17:19:53,"26,271s",PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2023-12-18 17:19:53,2023-12-18 17:19:53,"0,133s",PASSED
+,,,,,,,
+Test Cases/Menu/RT023 MobileMenu - SuperTester,Chrome 120.0.0.0,,,2023-12-18 17:19:53,2023-12-18 17:19:56,"2,809s",FAILED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-18 17:19:53,2023-12-18 17:19:54,"0,608s",PASSED
+navigateToUrl(URL + OVER_ONS + SUPERTESTER),Chrome 120.0.0.0,,,2023-12-18 17:19:54,2023-12-18 17:19:55,"0,965s",PASSED
+"callTestCase(findTestCase(""Menu/RT000.2 MobileMenu""), [:], STOP_ON_FAILURE)",Chrome 120.0.0.0,,,2023-12-18 17:19:55,2023-12-18 17:19:56,"1,170s",FAILED
+,,,,,,,
+Test Cases/Menu/RT024 MobileMenu - Blog,Chrome 120.0.0.0,,,2023-12-18 17:19:56,2023-12-18 17:20:24,"28,083s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-18 17:19:56,2023-12-18 17:19:57,"0,727s",PASSED
+navigateToUrl(URL + BLOG),Chrome 120.0.0.0,,,2023-12-18 17:19:57,2023-12-18 17:19:57,"0,344s",PASSED
+"callTestCase(findTestCase(""Menu/RT000.2 MobileMenu""), [:], STOP_ON_FAILURE)",Chrome 120.0.0.0,,,2023-12-18 17:19:57,2023-12-18 17:20:24,"26,817s",PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2023-12-18 17:20:24,2023-12-18 17:20:24,"0,153s",PASSED
+,,,,,,,
+Test Cases/Menu/RT025 MobileMenu - Vacatures,Chrome 120.0.0.0,,,2023-12-18 17:20:24,2023-12-18 17:20:52,"28,026s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-18 17:20:24,2023-12-18 17:20:25,"0,602s",PASSED
+navigateToUrl(URL + VACATURES),Chrome 120.0.0.0,,,2023-12-18 17:20:25,2023-12-18 17:20:25,"0,279s",PASSED
+"callTestCase(findTestCase(""Menu/RT000.2 MobileMenu""), [:], STOP_ON_FAILURE)",Chrome 120.0.0.0,,,2023-12-18 17:20:25,2023-12-18 17:20:52,"26,915s",PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2023-12-18 17:20:52,2023-12-18 17:20:52,"0,174s",PASSED
+,,,,,,,
+Test Cases/Menu/RT026 MobileMenu - Contact,Chrome 120.0.0.0,,,2023-12-18 17:20:52,2023-12-18 17:21:20,"28,366s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-18 17:20:52,2023-12-18 17:20:53,"0,687s",PASSED
+navigateToUrl(URL + CONTACT),Chrome 120.0.0.0,,,2023-12-18 17:20:53,2023-12-18 17:20:53,"0,230s",PASSED
+"callTestCase(findTestCase(""Menu/RT000.2 MobileMenu""), [:], STOP_ON_FAILURE)",Chrome 120.0.0.0,,,2023-12-18 17:20:53,2023-12-18 17:21:20,"27,228s",PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2023-12-18 17:21:20,2023-12-18 17:21:20,"0,151s",PASSED
+,,,,,,,
+Test Cases/Menu/RT027 MobileMenu - AlgVoorwaarden,Chrome 120.0.0.0,,,2023-12-18 17:21:20,2023-12-18 17:21:49,"28,120s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-18 17:21:20,2023-12-18 17:21:21,"0,621s",PASSED
+navigateToUrl(URL + ALGVOORW),Chrome 120.0.0.0,,,2023-12-18 17:21:21,2023-12-18 17:21:21,"0,242s",PASSED
+"callTestCase(findTestCase(""Menu/RT000.2 MobileMenu""), [:], STOP_ON_FAILURE)",Chrome 120.0.0.0,,,2023-12-18 17:21:21,2023-12-18 17:21:48,"27,063s",PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2023-12-18 17:21:48,2023-12-18 17:21:49,"0,140s",PASSED
+,,,,,,,
+Test Cases/Menu/RT028 MobileMenu - Privacybeleid,Chrome 120.0.0.0,,,2023-12-18 17:21:49,2023-12-18 17:22:17,"28,467s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-18 17:21:49,2023-12-18 17:21:49,"0,670s",PASSED
+navigateToUrl(URL + PRIVACYBELEID),Chrome 120.0.0.0,,,2023-12-18 17:21:49,2023-12-18 17:21:50,"0,315s",PASSED
+"callTestCase(findTestCase(""Menu/RT000.2 MobileMenu""), [:], STOP_ON_FAILURE)",Chrome 120.0.0.0,,,2023-12-18 17:21:50,2023-12-18 17:22:17,"27,258s",PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2023-12-18 17:22:17,2023-12-18 17:22:17,"0,171s",PASSED

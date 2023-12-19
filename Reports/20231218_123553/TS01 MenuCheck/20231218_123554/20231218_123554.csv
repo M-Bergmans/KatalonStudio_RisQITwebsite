@@ -1,0 +1,421 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS01 MenuCheck,Chrome 120.0.0.0,Check functionality of the menu in desktop view for all pages,,2023-12-18 12:36:01,2023-12-18 12:39:41,"3m - 39,683s",ERROR
+,,,,,,,
+Test Cases/Menu/RT001 MenuClicks - Homepage,Chrome 120.0.0.0,,,2023-12-18 12:36:01,2023-12-18 12:36:22,"21,140s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-18 12:36:01,2023-12-18 12:36:03,"1,309s",PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,2023-12-18 12:36:03,2023-12-18 12:36:03,"0,150s",PASSED
+navigateToUrl(URL),Chrome 120.0.0.0,,,2023-12-18 12:36:03,2023-12-18 12:36:04,"1,115s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_Diensten""))",Chrome 120.0.0.0,,,2023-12-18 12:36:04,2023-12-18 12:36:04,"0,520s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Diensten_SoftwareTesting""))",Chrome 120.0.0.0,,,2023-12-18 12:36:04,2023-12-18 12:36:05,"0,469s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Software Testing - RisQIT/h1_Software Testing""), ""Software Testing"")",Chrome 120.0.0.0,,,2023-12-18 12:36:05,2023-12-18 12:36:05,"0,652s",PASSED
+navigateToUrl(URL),Chrome 120.0.0.0,,,2023-12-18 12:36:05,2023-12-18 12:36:06,"0,108s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_Diensten""))",Chrome 120.0.0.0,,,2023-12-18 12:36:06,2023-12-18 12:36:06,"0,726s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Diensten_SHT""))",Chrome 120.0.0.0,,,2023-12-18 12:36:06,2023-12-18 12:36:07,"0,435s",PASSED
+"verifyElementText(findTestObject(""Page_Security en HackersTest (SHT) - RisQIT/h1_Security en HackersTest (SHT)""), ""Security En HackersTest (SHT)"")",Chrome 120.0.0.0,,,2023-12-18 12:36:07,2023-12-18 12:36:07,"0,601s",PASSED
+navigateToUrl(URL),Chrome 120.0.0.0,,,2023-12-18 12:36:07,2023-12-18 12:36:08,"0,178s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_Diensten""))",Chrome 120.0.0.0,,,2023-12-18 12:36:08,2023-12-18 12:36:08,"0,690s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Diensten_UXLab""))",Chrome 120.0.0.0,,,2023-12-18 12:36:08,2023-12-18 12:36:09,"0,577s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_UX Lab - RisQIT/h1_UX Lab""), ""UX Lab"")",Chrome 120.0.0.0,,,2023-12-18 12:36:09,2023-12-18 12:36:09,"0,454s",PASSED
+navigateToUrl(URL),Chrome 120.0.0.0,,,2023-12-18 12:36:09,2023-12-18 12:36:09,"0,132s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_OverOns""))",Chrome 120.0.0.0,,,2023-12-18 12:36:09,2023-12-18 12:36:10,"0,805s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Over ons - RisQIT/h1_Over ons""), ""Over Ons"")",Chrome 120.0.0.0,,,2023-12-18 12:36:10,2023-12-18 12:36:11,"0,454s",PASSED
+navigateToUrl(URL),Chrome 120.0.0.0,,,2023-12-18 12:36:11,2023-12-18 12:36:11,"0,137s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_OverOns""))",Chrome 120.0.0.0,,,2023-12-18 12:36:11,2023-12-18 12:36:11,"0,712s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_OverOns_MissieVisie""))",Chrome 120.0.0.0,,,2023-12-18 12:36:11,2023-12-18 12:36:12,"0,697s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Missie  Visie - RisQIT/h1_Missie  Visie""), ""Missie & Visie"")",Chrome 120.0.0.0,,,2023-12-18 12:36:12,2023-12-18 12:36:13,"0,594s",PASSED
+navigateToUrl(URL),Chrome 120.0.0.0,,,2023-12-18 12:36:13,2023-12-18 12:36:13,"0,212s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_OverOns""))",Chrome 120.0.0.0,,,2023-12-18 12:36:13,2023-12-18 12:36:14,"0,596s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_OverOns_HetGilde""))",Chrome 120.0.0.0,,,2023-12-18 12:36:14,2023-12-18 12:36:14,"0,714s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Het Gilde - RisQIT/h1_Het Gilde""), ""Het Gilde"")",Chrome 120.0.0.0,,,2023-12-18 12:36:14,2023-12-18 12:36:15,"0,606s",PASSED
+navigateToUrl(URL),Chrome 120.0.0.0,,,2023-12-18 12:36:15,2023-12-18 12:36:15,"0,134s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_OverOns""))",Chrome 120.0.0.0,,,2023-12-18 12:36:15,2023-12-18 12:36:16,"0,727s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_OverOns_SuperTester""))",Chrome 120.0.0.0,,,2023-12-18 12:36:16,2023-12-18 12:36:16,"0,720s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_SuperTester - RisQIT/h1_Whitepaper SuperTester""), ""Whitepaper SuperTester"")",Chrome 120.0.0.0,,,2023-12-18 12:36:16,2023-12-18 12:36:17,"0,607s",PASSED
+navigateToUrl(URL),Chrome 120.0.0.0,,,2023-12-18 12:36:17,2023-12-18 12:36:17,"0,137s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Blog""))",Chrome 120.0.0.0,,,2023-12-18 12:36:17,2023-12-18 12:36:18,"0,708s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Blog - RisQIT/h1_Blog""), ""Blog"")",Chrome 120.0.0.0,,,2023-12-18 12:36:18,2023-12-18 12:36:18,"0,564s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Vacatures""))",Chrome 120.0.0.0,,,2023-12-18 12:36:18,2023-12-18 12:36:19,"0,491s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Vacatures - RisQIT/h1_Vacatures""), ""Vacatures"")",Chrome 120.0.0.0,,,2023-12-18 12:36:19,2023-12-18 12:36:20,"0,594s",PASSED
+navigateToUrl(URL),Chrome 120.0.0.0,,,2023-12-18 12:36:20,2023-12-18 12:36:20,"0,142s",PASSED
+"click(findTestObject(""Object Repository/MenuTopbar/Page_Vacatures - RisQIT/div_Contact opnemen""))",Chrome 120.0.0.0,,,2023-12-18 12:36:20,2023-12-18 12:36:20,"0,664s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Contact - RisQIT/h1_Contact""), ""Contact"")",Chrome 120.0.0.0,,,2023-12-18 12:36:20,2023-12-18 12:36:21,"0,604s",PASSED
+"click(findTestObject(""MenuTopbar/img_Logo""))",Chrome 120.0.0.0,,,2023-12-18 12:36:21,2023-12-18 12:36:21,"0,473s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Home - RisQIT/h1_Ga voor duurzaamheid en vertrouwen, same_4bc4a8""), ""Ga voor duurzaamheid en vertrouwen, samen met ons!"")",Chrome 120.0.0.0,,,2023-12-18 12:36:21,2023-12-18 12:36:22,"0,571s",PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2023-12-18 12:36:22,2023-12-18 12:36:22,"0,139s",PASSED
+,,,,,,,
+Test Cases/Menu/RT002 MenuClicks - SoftwareTesting,Chrome 120.0.0.0,,,2023-12-18 12:36:22,2023-12-18 12:36:42,"20,120s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-18 12:36:22,2023-12-18 12:36:23,"0,639s",PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,2023-12-18 12:36:23,2023-12-18 12:36:23,"0,140s",PASSED
+navigateToUrl(URL + SOFTWARETESTING),Chrome 120.0.0.0,,,2023-12-18 12:36:23,2023-12-18 12:36:24,"0,851s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_Diensten""))",Chrome 120.0.0.0,,,2023-12-18 12:36:24,2023-12-18 12:36:24,"0,574s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Diensten_SoftwareTesting""))",Chrome 120.0.0.0,,,2023-12-18 12:36:24,2023-12-18 12:36:25,"0,443s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Software Testing - RisQIT/h1_Software Testing""), ""Software Testing"")",Chrome 120.0.0.0,,,2023-12-18 12:36:25,2023-12-18 12:36:26,"0,682s",PASSED
+navigateToUrl(URL + SOFTWARETESTING),Chrome 120.0.0.0,,,2023-12-18 12:36:26,2023-12-18 12:36:26,"0,086s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_Diensten""))",Chrome 120.0.0.0,,,2023-12-18 12:36:26,2023-12-18 12:36:26,"0,674s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Diensten_SHT""))",Chrome 120.0.0.0,,,2023-12-18 12:36:26,2023-12-18 12:36:27,"0,566s",PASSED
+"verifyElementText(findTestObject(""Page_Security en HackersTest (SHT) - RisQIT/h1_Security en HackersTest (SHT)""), ""Security En HackersTest (SHT)"")",Chrome 120.0.0.0,,,2023-12-18 12:36:27,2023-12-18 12:36:28,"0,986s",PASSED
+navigateToUrl(URL + SOFTWARETESTING),Chrome 120.0.0.0,,,2023-12-18 12:36:28,2023-12-18 12:36:28,"0,104s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_Diensten""))",Chrome 120.0.0.0,,,2023-12-18 12:36:28,2023-12-18 12:36:29,"0,725s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Diensten_UXLab""))",Chrome 120.0.0.0,,,2023-12-18 12:36:29,2023-12-18 12:36:29,"0,441s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_UX Lab - RisQIT/h1_UX Lab""), ""UX Lab"")",Chrome 120.0.0.0,,,2023-12-18 12:36:29,2023-12-18 12:36:30,"0,596s",PASSED
+navigateToUrl(URL + SOFTWARETESTING),Chrome 120.0.0.0,,,2023-12-18 12:36:30,2023-12-18 12:36:30,"0,076s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_OverOns""))",Chrome 120.0.0.0,,,2023-12-18 12:36:30,2023-12-18 12:36:31,"0,684s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Over ons - RisQIT/h1_Over ons""), ""Over Ons"")",Chrome 120.0.0.0,,,2023-12-18 12:36:31,2023-12-18 12:36:31,"0,583s",PASSED
+navigateToUrl(URL + SOFTWARETESTING),Chrome 120.0.0.0,,,2023-12-18 12:36:31,2023-12-18 12:36:31,"0,105s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_OverOns""))",Chrome 120.0.0.0,,,2023-12-18 12:36:31,2023-12-18 12:36:32,"0,701s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_OverOns_MissieVisie""))",Chrome 120.0.0.0,,,2023-12-18 12:36:32,2023-12-18 12:36:33,"0,660s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Missie  Visie - RisQIT/h1_Missie  Visie""), ""Missie & Visie"")",Chrome 120.0.0.0,,,2023-12-18 12:36:33,2023-12-18 12:36:33,"0,589s",PASSED
+navigateToUrl(URL + SOFTWARETESTING),Chrome 120.0.0.0,,,2023-12-18 12:36:33,2023-12-18 12:36:33,"0,095s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_OverOns""))",Chrome 120.0.0.0,,,2023-12-18 12:36:33,2023-12-18 12:36:34,"0,712s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_OverOns_HetGilde""))",Chrome 120.0.0.0,,,2023-12-18 12:36:34,2023-12-18 12:36:35,"0,681s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Het Gilde - RisQIT/h1_Het Gilde""), ""Het Gilde"")",Chrome 120.0.0.0,,,2023-12-18 12:36:35,2023-12-18 12:36:35,"0,613s",PASSED
+navigateToUrl(URL + SOFTWARETESTING),Chrome 120.0.0.0,,,2023-12-18 12:36:35,2023-12-18 12:36:35,"0,085s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_OverOns""))",Chrome 120.0.0.0,,,2023-12-18 12:36:35,2023-12-18 12:36:36,"0,777s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_OverOns_SuperTester""))",Chrome 120.0.0.0,,,2023-12-18 12:36:36,2023-12-18 12:36:37,"0,612s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_SuperTester - RisQIT/h1_Whitepaper SuperTester""), ""Whitepaper SuperTester"")",Chrome 120.0.0.0,,,2023-12-18 12:36:37,2023-12-18 12:36:37,"0,576s",PASSED
+navigateToUrl(URL + SOFTWARETESTING),Chrome 120.0.0.0,,,2023-12-18 12:36:37,2023-12-18 12:36:37,"0,117s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Blog""))",Chrome 120.0.0.0,,,2023-12-18 12:36:37,2023-12-18 12:36:38,"0,674s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Blog - RisQIT/h1_Blog""), ""Blog"")",Chrome 120.0.0.0,,,2023-12-18 12:36:38,2023-12-18 12:36:39,"0,574s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Vacatures""))",Chrome 120.0.0.0,,,2023-12-18 12:36:39,2023-12-18 12:36:39,"0,427s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Vacatures - RisQIT/h1_Vacatures""), ""Vacatures"")",Chrome 120.0.0.0,,,2023-12-18 12:36:39,2023-12-18 12:36:40,"0,534s",PASSED
+navigateToUrl(URL + SOFTWARETESTING),Chrome 120.0.0.0,,,2023-12-18 12:36:40,2023-12-18 12:36:40,"0,111s",PASSED
+"click(findTestObject(""Object Repository/MenuTopbar/Page_Vacatures - RisQIT/div_Contact opnemen""))",Chrome 120.0.0.0,,,2023-12-18 12:36:40,2023-12-18 12:36:40,"0,719s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Contact - RisQIT/h1_Contact""), ""Contact"")",Chrome 120.0.0.0,,,2023-12-18 12:36:40,2023-12-18 12:36:41,"0,590s",PASSED
+"click(findTestObject(""MenuTopbar/img_Logo""))",Chrome 120.0.0.0,,,2023-12-18 12:36:41,2023-12-18 12:36:42,"0,505s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Home - RisQIT/h1_Ga voor duurzaamheid en vertrouwen, same_4bc4a8""), ""Ga voor duurzaamheid en vertrouwen, samen met ons!"")",Chrome 120.0.0.0,,,2023-12-18 12:36:42,2023-12-18 12:36:42,"0,569s",PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2023-12-18 12:36:42,2023-12-18 12:36:42,"0,131s",PASSED
+,,,,,,,
+Test Cases/Menu/RT003 MenuClicks - SHT,Chrome 120.0.0.0,,,2023-12-18 12:36:42,2023-12-18 12:37:03,"20,215s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-18 12:36:42,2023-12-18 12:36:43,"0,651s",PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,2023-12-18 12:36:43,2023-12-18 12:36:43,"0,139s",PASSED
+navigateToUrl(URL + SHT),Chrome 120.0.0.0,,,2023-12-18 12:36:43,2023-12-18 12:36:44,"0,893s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_Diensten""))",Chrome 120.0.0.0,,,2023-12-18 12:36:44,2023-12-18 12:36:45,"0,556s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Diensten_SoftwareTesting""))",Chrome 120.0.0.0,,,2023-12-18 12:36:45,2023-12-18 12:36:45,"0,458s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Software Testing - RisQIT/h1_Software Testing""), ""Software Testing"")",Chrome 120.0.0.0,,,2023-12-18 12:36:45,2023-12-18 12:36:46,"0,609s",PASSED
+navigateToUrl(URL + SHT),Chrome 120.0.0.0,,,2023-12-18 12:36:46,2023-12-18 12:36:46,"0,058s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_Diensten""))",Chrome 120.0.0.0,,,2023-12-18 12:36:46,2023-12-18 12:36:47,"0,773s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Diensten_SHT""))",Chrome 120.0.0.0,,,2023-12-18 12:36:47,2023-12-18 12:36:47,"0,403s",PASSED
+"verifyElementText(findTestObject(""Page_Security en HackersTest (SHT) - RisQIT/h1_Security en HackersTest (SHT)""), ""Security En HackersTest (SHT)"")",Chrome 120.0.0.0,,,2023-12-18 12:36:47,2023-12-18 12:36:48,"1,010s",PASSED
+navigateToUrl(URL + SHT),Chrome 120.0.0.0,,,2023-12-18 12:36:48,2023-12-18 12:36:48,"0,107s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_Diensten""))",Chrome 120.0.0.0,,,2023-12-18 12:36:48,2023-12-18 12:36:49,"0,744s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Diensten_UXLab""))",Chrome 120.0.0.0,,,2023-12-18 12:36:49,2023-12-18 12:36:49,"0,473s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_UX Lab - RisQIT/h1_UX Lab""), ""UX Lab"")",Chrome 120.0.0.0,,,2023-12-18 12:36:49,2023-12-18 12:36:50,"0,575s",PASSED
+navigateToUrl(URL + SHT),Chrome 120.0.0.0,,,2023-12-18 12:36:50,2023-12-18 12:36:50,"0,123s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_OverOns""))",Chrome 120.0.0.0,,,2023-12-18 12:36:50,2023-12-18 12:36:51,"0,724s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Over ons - RisQIT/h1_Over ons""), ""Over Ons"")",Chrome 120.0.0.0,,,2023-12-18 12:36:51,2023-12-18 12:36:51,"0,568s",PASSED
+navigateToUrl(URL + SHT),Chrome 120.0.0.0,,,2023-12-18 12:36:51,2023-12-18 12:36:51,"0,100s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_OverOns""))",Chrome 120.0.0.0,,,2023-12-18 12:36:51,2023-12-18 12:36:52,"0,754s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_OverOns_MissieVisie""))",Chrome 120.0.0.0,,,2023-12-18 12:36:52,2023-12-18 12:36:53,"0,689s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Missie  Visie - RisQIT/h1_Missie  Visie""), ""Missie & Visie"")",Chrome 120.0.0.0,,,2023-12-18 12:36:53,2023-12-18 12:36:53,"0,555s",PASSED
+navigateToUrl(URL + SHT),Chrome 120.0.0.0,,,2023-12-18 12:36:53,2023-12-18 12:36:53,"0,125s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_OverOns""))",Chrome 120.0.0.0,,,2023-12-18 12:36:53,2023-12-18 12:36:54,"0,731s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_OverOns_HetGilde""))",Chrome 120.0.0.0,,,2023-12-18 12:36:54,2023-12-18 12:36:55,"0,678s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Het Gilde - RisQIT/h1_Het Gilde""), ""Het Gilde"")",Chrome 120.0.0.0,,,2023-12-18 12:36:55,2023-12-18 12:36:55,"0,562s",PASSED
+navigateToUrl(URL + SHT),Chrome 120.0.0.0,,,2023-12-18 12:36:55,2023-12-18 12:36:56,"0,078s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_OverOns""))",Chrome 120.0.0.0,,,2023-12-18 12:36:56,2023-12-18 12:36:56,"0,730s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_OverOns_SuperTester""))",Chrome 120.0.0.0,,,2023-12-18 12:36:56,2023-12-18 12:36:57,"0,659s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_SuperTester - RisQIT/h1_Whitepaper SuperTester""), ""Whitepaper SuperTester"")",Chrome 120.0.0.0,,,2023-12-18 12:36:57,2023-12-18 12:36:58,"0,578s",PASSED
+navigateToUrl(URL + SHT),Chrome 120.0.0.0,,,2023-12-18 12:36:58,2023-12-18 12:36:58,"0,104s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Blog""))",Chrome 120.0.0.0,,,2023-12-18 12:36:58,2023-12-18 12:36:58,"0,733s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Blog - RisQIT/h1_Blog""), ""Blog"")",Chrome 120.0.0.0,,,2023-12-18 12:36:58,2023-12-18 12:36:59,"0,582s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Vacatures""))",Chrome 120.0.0.0,,,2023-12-18 12:36:59,2023-12-18 12:36:59,"0,393s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Vacatures - RisQIT/h1_Vacatures""), ""Vacatures"")",Chrome 120.0.0.0,,,2023-12-18 12:36:59,2023-12-18 12:37:00,"0,622s",PASSED
+navigateToUrl(URL + SHT),Chrome 120.0.0.0,,,2023-12-18 12:37:00,2023-12-18 12:37:00,"0,086s",PASSED
+"click(findTestObject(""Object Repository/MenuTopbar/Page_Vacatures - RisQIT/div_Contact opnemen""))",Chrome 120.0.0.0,,,2023-12-18 12:37:00,2023-12-18 12:37:01,"0,698s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Contact - RisQIT/h1_Contact""), ""Contact"")",Chrome 120.0.0.0,,,2023-12-18 12:37:01,2023-12-18 12:37:01,"0,554s",PASSED
+"click(findTestObject(""MenuTopbar/img_Logo""))",Chrome 120.0.0.0,,,2023-12-18 12:37:01,2023-12-18 12:37:02,"0,510s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Home - RisQIT/h1_Ga voor duurzaamheid en vertrouwen, same_4bc4a8""), ""Ga voor duurzaamheid en vertrouwen, samen met ons!"")",Chrome 120.0.0.0,,,2023-12-18 12:37:02,2023-12-18 12:37:02,"0,600s",PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2023-12-18 12:37:02,2023-12-18 12:37:03,"0,121s",PASSED
+,,,,,,,
+Test Cases/Menu/RT004 MenuClicks - UX-Lab,Chrome 120.0.0.0,,,2023-12-18 12:37:03,2023-12-18 12:37:05,"2,782s",FAILED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-18 12:37:03,2023-12-18 12:37:03,"0,647s",PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,2023-12-18 12:37:03,2023-12-18 12:37:03,"0,138s",PASSED
+navigateToUrl(URL + UXLAB),Chrome 120.0.0.0,,,2023-12-18 12:37:03,2023-12-18 12:37:04,"0,865s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_Diensten""))",Chrome 120.0.0.0,,,2023-12-18 12:37:04,2023-12-18 12:37:05,"0,590s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Diensten_SoftwareTesting""))",Chrome 120.0.0.0,,,2023-12-18 12:37:05,2023-12-18 12:37:05,"0,479s",FAILED
+,,,,,,,
+Test Cases/Menu/RT005 MenuClicks - Over Ons,Chrome 120.0.0.0,,,2023-12-18 12:37:05,2023-12-18 12:37:10,"5,197s",FAILED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-18 12:37:05,2023-12-18 12:37:06,"0,773s",PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,2023-12-18 12:37:06,2023-12-18 12:37:06,"0,124s",PASSED
+navigateToUrl(URL + OVER_ONS),Chrome 120.0.0.0,,,2023-12-18 12:37:06,2023-12-18 12:37:07,"0,269s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_Diensten""))",Chrome 120.0.0.0,,,2023-12-18 12:37:07,2023-12-18 12:37:07,"0,675s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Diensten_SoftwareTesting""))",Chrome 120.0.0.0,,,2023-12-18 12:37:07,2023-12-18 12:37:08,"1,088s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Software Testing - RisQIT/h1_Software Testing""), ""Software Testing"")",Chrome 120.0.0.0,,,2023-12-18 12:37:08,2023-12-18 12:37:09,"0,536s",PASSED
+navigateToUrl(URL + OVER_ONS),Chrome 120.0.0.0,,,2023-12-18 12:37:09,2023-12-18 12:37:09,"0,081s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_Diensten""))",Chrome 120.0.0.0,,,2023-12-18 12:37:09,2023-12-18 12:37:10,"0,686s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Diensten_SHT""))",Chrome 120.0.0.0,,,2023-12-18 12:37:10,2023-12-18 12:37:10,"0,902s",FAILED
+,,,,,,,
+Test Cases/Menu/RT006 MenuClicks - Missie_Visie,Chrome 120.0.0.0,,,2023-12-18 12:37:11,2023-12-18 12:37:17,"6,500s",FAILED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-18 12:37:11,2023-12-18 12:37:11,"0,751s",PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,2023-12-18 12:37:11,2023-12-18 12:37:11,"0,127s",PASSED
+navigateToUrl(URL + OVER_ONS + MISSIE_VISIE),Chrome 120.0.0.0,,,2023-12-18 12:37:11,2023-12-18 12:37:12,"0,876s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_Diensten""))",Chrome 120.0.0.0,,,2023-12-18 12:37:12,2023-12-18 12:37:13,"0,563s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Diensten_SoftwareTesting""))",Chrome 120.0.0.0,,,2023-12-18 12:37:13,2023-12-18 12:37:13,"0,439s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Software Testing - RisQIT/h1_Software Testing""), ""Software Testing"")",Chrome 120.0.0.0,,,2023-12-18 12:37:13,2023-12-18 12:37:14,"0,618s",PASSED
+navigateToUrl(URL + OVER_ONS + MISSIE_VISIE),Chrome 120.0.0.0,,,2023-12-18 12:37:14,2023-12-18 12:37:14,"0,074s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_Diensten""))",Chrome 120.0.0.0,,,2023-12-18 12:37:14,2023-12-18 12:37:15,"0,629s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Diensten_SHT""))",Chrome 120.0.0.0,,,2023-12-18 12:37:15,2023-12-18 12:37:15,"0,529s",PASSED
+"verifyElementText(findTestObject(""Page_Security en HackersTest (SHT) - RisQIT/h1_Security en HackersTest (SHT)""), ""Security En HackersTest (SHT)"")",Chrome 120.0.0.0,,,2023-12-18 12:37:15,2023-12-18 12:37:16,"0,423s",PASSED
+navigateToUrl(URL + OVER_ONS + MISSIE_VISIE),Chrome 120.0.0.0,,,2023-12-18 12:37:16,2023-12-18 12:37:16,"0,082s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_Diensten""))",Chrome 120.0.0.0,,,2023-12-18 12:37:16,2023-12-18 12:37:16,"0,663s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Diensten_UXLab""))",Chrome 120.0.0.0,,,2023-12-18 12:37:16,2023-12-18 12:37:17,"0,660s",FAILED
+,,,,,,,
+Test Cases/Menu/RT007 MenuClicks - Het Gilde,Chrome 120.0.0.0,,,2023-12-18 12:37:17,2023-12-18 12:37:35,"18,338s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-18 12:37:17,2023-12-18 12:37:18,"0,737s",PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,2023-12-18 12:37:18,2023-12-18 12:37:18,"0,127s",PASSED
+navigateToUrl(URL + OVER_ONS + HETGILDE),Chrome 120.0.0.0,,,2023-12-18 12:37:18,2023-12-18 12:37:19,"0,968s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_Diensten""))",Chrome 120.0.0.0,,,2023-12-18 12:37:19,2023-12-18 12:37:19,"0,543s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Diensten_SoftwareTesting""))",Chrome 120.0.0.0,,,2023-12-18 12:37:19,2023-12-18 12:37:20,"0,457s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Software Testing - RisQIT/h1_Software Testing""), ""Software Testing"")",Chrome 120.0.0.0,,,2023-12-18 12:37:20,2023-12-18 12:37:21,"0,648s",PASSED
+navigateToUrl(URL + OVER_ONS + HETGILDE),Chrome 120.0.0.0,,,2023-12-18 12:37:21,2023-12-18 12:37:21,"0,102s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_Diensten""))",Chrome 120.0.0.0,,,2023-12-18 12:37:21,2023-12-18 12:37:21,"0,725s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Diensten_SHT""))",Chrome 120.0.0.0,,,2023-12-18 12:37:21,2023-12-18 12:37:22,"0,389s",PASSED
+"verifyElementText(findTestObject(""Page_Security en HackersTest (SHT) - RisQIT/h1_Security en HackersTest (SHT)""), ""Security En HackersTest (SHT)"")",Chrome 120.0.0.0,,,2023-12-18 12:37:22,2023-12-18 12:37:22,"0,582s",PASSED
+navigateToUrl(URL + OVER_ONS + HETGILDE),Chrome 120.0.0.0,,,2023-12-18 12:37:22,2023-12-18 12:37:22,"0,072s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_Diensten""))",Chrome 120.0.0.0,,,2023-12-18 12:37:22,2023-12-18 12:37:23,"0,736s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Diensten_UXLab""))",Chrome 120.0.0.0,,,2023-12-18 12:37:23,2023-12-18 12:37:24,"0,395s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_UX Lab - RisQIT/h1_UX Lab""), ""UX Lab"")",Chrome 120.0.0.0,,,2023-12-18 12:37:24,2023-12-18 12:37:24,"0,549s",PASSED
+navigateToUrl(URL + OVER_ONS + HETGILDE),Chrome 120.0.0.0,,,2023-12-18 12:37:24,2023-12-18 12:37:24,"0,097s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_OverOns""))",Chrome 120.0.0.0,,,2023-12-18 12:37:24,2023-12-18 12:37:25,"0,451s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Over ons - RisQIT/h1_Over ons""), ""Over Ons"")",Chrome 120.0.0.0,,,2023-12-18 12:37:25,2023-12-18 12:37:25,"0,299s",PASSED
+navigateToUrl(URL + OVER_ONS + HETGILDE),Chrome 120.0.0.0,,,2023-12-18 12:37:25,2023-12-18 12:37:25,"0,082s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_OverOns""))",Chrome 120.0.0.0,,,2023-12-18 12:37:25,2023-12-18 12:37:26,"0,709s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_OverOns_MissieVisie""))",Chrome 120.0.0.0,,,2023-12-18 12:37:26,2023-12-18 12:37:26,"0,594s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Missie  Visie - RisQIT/h1_Missie  Visie""), ""Missie & Visie"")",Chrome 120.0.0.0,,,2023-12-18 12:37:26,2023-12-18 12:37:27,"0,621s",PASSED
+navigateToUrl(URL + OVER_ONS + HETGILDE),Chrome 120.0.0.0,,,2023-12-18 12:37:27,2023-12-18 12:37:27,"0,072s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_OverOns""))",Chrome 120.0.0.0,,,2023-12-18 12:37:27,2023-12-18 12:37:28,"0,716s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_OverOns_HetGilde""))",Chrome 120.0.0.0,,,2023-12-18 12:37:28,2023-12-18 12:37:28,"0,605s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Het Gilde - RisQIT/h1_Het Gilde""), ""Het Gilde"")",Chrome 120.0.0.0,,,2023-12-18 12:37:28,2023-12-18 12:37:29,"0,508s",PASSED
+navigateToUrl(URL + OVER_ONS + HETGILDE),Chrome 120.0.0.0,,,2023-12-18 12:37:29,2023-12-18 12:37:29,"0,088s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_OverOns""))",Chrome 120.0.0.0,,,2023-12-18 12:37:29,2023-12-18 12:37:30,"0,678s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_OverOns_SuperTester""))",Chrome 120.0.0.0,,,2023-12-18 12:37:30,2023-12-18 12:37:30,"0,567s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_SuperTester - RisQIT/h1_Whitepaper SuperTester""), ""Whitepaper SuperTester"")",Chrome 120.0.0.0,,,2023-12-18 12:37:30,2023-12-18 12:37:31,"0,567s",PASSED
+navigateToUrl(URL + OVER_ONS + HETGILDE),Chrome 120.0.0.0,,,2023-12-18 12:37:31,2023-12-18 12:37:31,"0,103s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Blog""))",Chrome 120.0.0.0,,,2023-12-18 12:37:31,2023-12-18 12:37:31,"0,538s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Blog - RisQIT/h1_Blog""), ""Blog"")",Chrome 120.0.0.0,,,2023-12-18 12:37:31,2023-12-18 12:37:32,"0,592s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Vacatures""))",Chrome 120.0.0.0,,,2023-12-18 12:37:32,2023-12-18 12:37:32,"0,338s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Vacatures - RisQIT/h1_Vacatures""), ""Vacatures"")",Chrome 120.0.0.0,,,2023-12-18 12:37:32,2023-12-18 12:37:33,"0,617s",PASSED
+navigateToUrl(URL + OVER_ONS + HETGILDE),Chrome 120.0.0.0,,,2023-12-18 12:37:33,2023-12-18 12:37:33,"0,106s",PASSED
+"click(findTestObject(""Object Repository/MenuTopbar/Page_Vacatures - RisQIT/div_Contact opnemen""))",Chrome 120.0.0.0,,,2023-12-18 12:37:33,2023-12-18 12:37:34,"0,565s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Contact - RisQIT/h1_Contact""), ""Contact"")",Chrome 120.0.0.0,,,2023-12-18 12:37:34,2023-12-18 12:37:34,"0,650s",PASSED
+"click(findTestObject(""MenuTopbar/img_Logo""))",Chrome 120.0.0.0,,,2023-12-18 12:37:34,2023-12-18 12:37:35,"0,340s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Home - RisQIT/h1_Ga voor duurzaamheid en vertrouwen, same_4bc4a8""), ""Ga voor duurzaamheid en vertrouwen, samen met ons!"")",Chrome 120.0.0.0,,,2023-12-18 12:37:35,2023-12-18 12:37:35,"0,625s",PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2023-12-18 12:37:35,2023-12-18 12:37:35,"0,112s",PASSED
+,,,,,,,
+Test Cases/Menu/RT008 MenuClicks - SuperTester,Chrome 120.0.0.0,,,2023-12-18 12:37:35,2023-12-18 12:38:08,"32,856s",FAILED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-18 12:37:35,2023-12-18 12:37:36,"0,637s",PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,2023-12-18 12:37:36,2023-12-18 12:37:36,"0,130s",PASSED
+navigateToUrl(URL + OVER_ONS + SUPERTESTER),Chrome 120.0.0.0,,,2023-12-18 12:37:36,2023-12-18 12:37:37,"1,036s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_Diensten""))",Chrome 120.0.0.0,,,2023-12-18 12:37:37,2023-12-18 12:38:08,"31,003s",FAILED
+,,,,,,,
+Test Cases/Menu/RT008.1 MenuClicks - SuperTester - Alternatief,Chrome 120.0.0.0,,,2023-12-18 12:38:08,2023-12-18 12:38:08,"0,028s",ERROR
+,,,,,,,
+Test Cases/Menu/RT009 MenuClicks - Blog,Chrome 120.0.0.0,,,2023-12-18 12:38:08,2023-12-18 12:38:27,"18,694s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-18 12:38:08,2023-12-18 12:38:09,"0,775s",PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,2023-12-18 12:38:09,2023-12-18 12:38:09,"0,128s",PASSED
+navigateToUrl(URL + BLOG),Chrome 120.0.0.0,,,2023-12-18 12:38:09,2023-12-18 12:38:09,"0,293s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_Diensten""))",Chrome 120.0.0.0,,,2023-12-18 12:38:09,2023-12-18 12:38:10,"0,663s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Diensten_SoftwareTesting""))",Chrome 120.0.0.0,,,2023-12-18 12:38:10,2023-12-18 12:38:11,"1,048s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Software Testing - RisQIT/h1_Software Testing""), ""Software Testing"")",Chrome 120.0.0.0,,,2023-12-18 12:38:11,2023-12-18 12:38:12,"0,533s",PASSED
+navigateToUrl(URL + BLOG),Chrome 120.0.0.0,,,2023-12-18 12:38:12,2023-12-18 12:38:12,"0,068s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_Diensten""))",Chrome 120.0.0.0,,,2023-12-18 12:38:12,2023-12-18 12:38:12,"0,667s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Diensten_SHT""))",Chrome 120.0.0.0,,,2023-12-18 12:38:12,2023-12-18 12:38:13,"0,637s",PASSED
+"verifyElementText(findTestObject(""Page_Security en HackersTest (SHT) - RisQIT/h1_Security en HackersTest (SHT)""), ""Security En HackersTest (SHT)"")",Chrome 120.0.0.0,,,2023-12-18 12:38:13,2023-12-18 12:38:14,"0,553s",PASSED
+navigateToUrl(URL + BLOG),Chrome 120.0.0.0,,,2023-12-18 12:38:14,2023-12-18 12:38:14,"0,102s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_Diensten""))",Chrome 120.0.0.0,,,2023-12-18 12:38:14,2023-12-18 12:38:14,"0,681s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Diensten_UXLab""))",Chrome 120.0.0.0,,,2023-12-18 12:38:14,2023-12-18 12:38:15,"0,559s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_UX Lab - RisQIT/h1_UX Lab""), ""UX Lab"")",Chrome 120.0.0.0,,,2023-12-18 12:38:15,2023-12-18 12:38:16,"0,543s",PASSED
+navigateToUrl(URL + BLOG),Chrome 120.0.0.0,,,2023-12-18 12:38:16,2023-12-18 12:38:16,"0,090s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_OverOns""))",Chrome 120.0.0.0,,,2023-12-18 12:38:16,2023-12-18 12:38:16,"0,575s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Over ons - RisQIT/h1_Over ons""), ""Over Ons"")",Chrome 120.0.0.0,,,2023-12-18 12:38:16,2023-12-18 12:38:17,"0,615s",PASSED
+navigateToUrl(URL + BLOG),Chrome 120.0.0.0,,,2023-12-18 12:38:17,2023-12-18 12:38:17,"0,106s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_OverOns""))",Chrome 120.0.0.0,,,2023-12-18 12:38:17,2023-12-18 12:38:18,"0,678s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_OverOns_MissieVisie""))",Chrome 120.0.0.0,,,2023-12-18 12:38:18,2023-12-18 12:38:18,"0,543s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Missie  Visie - RisQIT/h1_Missie  Visie""), ""Missie & Visie"")",Chrome 120.0.0.0,,,2023-12-18 12:38:18,2023-12-18 12:38:19,"0,535s",PASSED
+navigateToUrl(URL + BLOG),Chrome 120.0.0.0,,,2023-12-18 12:38:19,2023-12-18 12:38:19,"0,118s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_OverOns""))",Chrome 120.0.0.0,,,2023-12-18 12:38:19,2023-12-18 12:38:19,"0,584s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_OverOns_HetGilde""))",Chrome 120.0.0.0,,,2023-12-18 12:38:19,2023-12-18 12:38:20,"0,626s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Het Gilde - RisQIT/h1_Het Gilde""), ""Het Gilde"")",Chrome 120.0.0.0,,,2023-12-18 12:38:20,2023-12-18 12:38:21,"0,538s",PASSED
+navigateToUrl(URL + BLOG),Chrome 120.0.0.0,,,2023-12-18 12:38:21,2023-12-18 12:38:21,"0,127s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_OverOns""))",Chrome 120.0.0.0,,,2023-12-18 12:38:21,2023-12-18 12:38:21,"0,575s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_OverOns_SuperTester""))",Chrome 120.0.0.0,,,2023-12-18 12:38:21,2023-12-18 12:38:22,"0,603s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_SuperTester - RisQIT/h1_Whitepaper SuperTester""), ""Whitepaper SuperTester"")",Chrome 120.0.0.0,,,2023-12-18 12:38:22,2023-12-18 12:38:22,"0,545s",PASSED
+navigateToUrl(URL + BLOG),Chrome 120.0.0.0,,,2023-12-18 12:38:22,2023-12-18 12:38:23,"0,111s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Blog""))",Chrome 120.0.0.0,,,2023-12-18 12:38:23,2023-12-18 12:38:23,"0,569s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Blog - RisQIT/h1_Blog""), ""Blog"")",Chrome 120.0.0.0,,,2023-12-18 12:38:23,2023-12-18 12:38:24,"0,588s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Vacatures""))",Chrome 120.0.0.0,,,2023-12-18 12:38:24,2023-12-18 12:38:24,"0,392s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Vacatures - RisQIT/h1_Vacatures""), ""Vacatures"")",Chrome 120.0.0.0,,,2023-12-18 12:38:24,2023-12-18 12:38:25,"0,623s",PASSED
+navigateToUrl(URL + BLOG),Chrome 120.0.0.0,,,2023-12-18 12:38:25,2023-12-18 12:38:25,"0,111s",PASSED
+"click(findTestObject(""Object Repository/MenuTopbar/Page_Vacatures - RisQIT/div_Contact opnemen""))",Chrome 120.0.0.0,,,2023-12-18 12:38:25,2023-12-18 12:38:25,"0,532s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Contact - RisQIT/h1_Contact""), ""Contact"")",Chrome 120.0.0.0,,,2023-12-18 12:38:25,2023-12-18 12:38:25,"0,142s",PASSED
+"click(findTestObject(""MenuTopbar/img_Logo""))",Chrome 120.0.0.0,,,2023-12-18 12:38:25,2023-12-18 12:38:26,"0,574s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Home - RisQIT/h1_Ga voor duurzaamheid en vertrouwen, same_4bc4a8""), ""Ga voor duurzaamheid en vertrouwen, samen met ons!"")",Chrome 120.0.0.0,,,2023-12-18 12:38:26,2023-12-18 12:38:27,"0,741s",PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2023-12-18 12:38:27,2023-12-18 12:38:27,"0,148s",PASSED
+,,,,,,,
+Test Cases/Menu/RT010 MenuClicks - Vacatures,Chrome 120.0.0.0,,,2023-12-18 12:38:27,2023-12-18 12:38:45,"18,437s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-18 12:38:27,2023-12-18 12:38:28,"0,651s",PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,2023-12-18 12:38:28,2023-12-18 12:38:28,"0,132s",PASSED
+navigateToUrl(URL + VACATURES),Chrome 120.0.0.0,,,2023-12-18 12:38:28,2023-12-18 12:38:28,"0,283s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_Diensten""))",Chrome 120.0.0.0,,,2023-12-18 12:38:28,2023-12-18 12:38:29,"0,701s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Diensten_SoftwareTesting""))",Chrome 120.0.0.0,,,2023-12-18 12:38:29,2023-12-18 12:38:30,"1,014s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Software Testing - RisQIT/h1_Software Testing""), ""Software Testing"")",Chrome 120.0.0.0,,,2023-12-18 12:38:30,2023-12-18 12:38:30,"0,522s",PASSED
+navigateToUrl(URL + VACATURES),Chrome 120.0.0.0,,,2023-12-18 12:38:30,2023-12-18 12:38:30,"0,083s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_Diensten""))",Chrome 120.0.0.0,,,2023-12-18 12:38:30,2023-12-18 12:38:31,"0,669s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Diensten_SHT""))",Chrome 120.0.0.0,,,2023-12-18 12:38:31,2023-12-18 12:38:32,"0,661s",PASSED
+"verifyElementText(findTestObject(""Page_Security en HackersTest (SHT) - RisQIT/h1_Security en HackersTest (SHT)""), ""Security En HackersTest (SHT)"")",Chrome 120.0.0.0,,,2023-12-18 12:38:32,2023-12-18 12:38:32,"0,531s",PASSED
+navigateToUrl(URL + VACATURES),Chrome 120.0.0.0,,,2023-12-18 12:38:32,2023-12-18 12:38:32,"0,066s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_Diensten""))",Chrome 120.0.0.0,,,2023-12-18 12:38:32,2023-12-18 12:38:33,"0,680s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Diensten_UXLab""))",Chrome 120.0.0.0,,,2023-12-18 12:38:33,2023-12-18 12:38:34,"0,557s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_UX Lab - RisQIT/h1_UX Lab""), ""UX Lab"")",Chrome 120.0.0.0,,,2023-12-18 12:38:34,2023-12-18 12:38:34,"0,425s",PASSED
+navigateToUrl(URL + VACATURES),Chrome 120.0.0.0,,,2023-12-18 12:38:34,2023-12-18 12:38:34,"0,088s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_OverOns""))",Chrome 120.0.0.0,,,2023-12-18 12:38:34,2023-12-18 12:38:35,"0,577s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Over ons - RisQIT/h1_Over ons""), ""Over Ons"")",Chrome 120.0.0.0,,,2023-12-18 12:38:35,2023-12-18 12:38:35,"0,610s",PASSED
+navigateToUrl(URL + VACATURES),Chrome 120.0.0.0,,,2023-12-18 12:38:35,2023-12-18 12:38:35,"0,082s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_OverOns""))",Chrome 120.0.0.0,,,2023-12-18 12:38:35,2023-12-18 12:38:36,"0,662s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_OverOns_MissieVisie""))",Chrome 120.0.0.0,,,2023-12-18 12:38:36,2023-12-18 12:38:37,"0,528s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Missie  Visie - RisQIT/h1_Missie  Visie""), ""Missie & Visie"")",Chrome 120.0.0.0,,,2023-12-18 12:38:37,2023-12-18 12:38:37,"0,544s",PASSED
+navigateToUrl(URL + VACATURES),Chrome 120.0.0.0,,,2023-12-18 12:38:37,2023-12-18 12:38:37,"0,109s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_OverOns""))",Chrome 120.0.0.0,,,2023-12-18 12:38:37,2023-12-18 12:38:38,"0,699s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_OverOns_HetGilde""))",Chrome 120.0.0.0,,,2023-12-18 12:38:38,2023-12-18 12:38:38,"0,594s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Het Gilde - RisQIT/h1_Het Gilde""), ""Het Gilde"")",Chrome 120.0.0.0,,,2023-12-18 12:38:38,2023-12-18 12:38:39,"0,546s",PASSED
+navigateToUrl(URL + VACATURES),Chrome 120.0.0.0,,,2023-12-18 12:38:39,2023-12-18 12:38:39,"0,098s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_OverOns""))",Chrome 120.0.0.0,,,2023-12-18 12:38:39,2023-12-18 12:38:40,"0,653s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_OverOns_SuperTester""))",Chrome 120.0.0.0,,,2023-12-18 12:38:40,2023-12-18 12:38:41,"0,822s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_SuperTester - RisQIT/h1_Whitepaper SuperTester""), ""Whitepaper SuperTester"")",Chrome 120.0.0.0,,,2023-12-18 12:38:41,2023-12-18 12:38:41,"0,485s",PASSED
+navigateToUrl(URL + VACATURES),Chrome 120.0.0.0,,,2023-12-18 12:38:41,2023-12-18 12:38:41,"0,113s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Blog""))",Chrome 120.0.0.0,,,2023-12-18 12:38:41,2023-12-18 12:38:42,"0,532s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Blog - RisQIT/h1_Blog""), ""Blog"")",Chrome 120.0.0.0,,,2023-12-18 12:38:42,2023-12-18 12:38:42,"0,132s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Vacatures""))",Chrome 120.0.0.0,,,2023-12-18 12:38:42,2023-12-18 12:38:42,"0,537s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Vacatures - RisQIT/h1_Vacatures""), ""Vacatures"")",Chrome 120.0.0.0,,,2023-12-18 12:38:42,2023-12-18 12:38:43,"0,633s",PASSED
+navigateToUrl(URL + VACATURES),Chrome 120.0.0.0,,,2023-12-18 12:38:43,2023-12-18 12:38:43,"0,081s",PASSED
+"click(findTestObject(""Object Repository/MenuTopbar/Page_Vacatures - RisQIT/div_Contact opnemen""))",Chrome 120.0.0.0,,,2023-12-18 12:38:43,2023-12-18 12:38:44,"0,572s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Contact - RisQIT/h1_Contact""), ""Contact"")",Chrome 120.0.0.0,,,2023-12-18 12:38:44,2023-12-18 12:38:44,"0,594s",PASSED
+"click(findTestObject(""MenuTopbar/img_Logo""))",Chrome 120.0.0.0,,,2023-12-18 12:38:44,2023-12-18 12:38:45,"0,333s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Home - RisQIT/h1_Ga voor duurzaamheid en vertrouwen, same_4bc4a8""), ""Ga voor duurzaamheid en vertrouwen, samen met ons!"")",Chrome 120.0.0.0,,,2023-12-18 12:38:45,2023-12-18 12:38:45,"0,580s",PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2023-12-18 12:38:45,2023-12-18 12:38:45,"0,187s",PASSED
+,,,,,,,
+Test Cases/Menu/RT011 MenuClicks - Contact,Chrome 120.0.0.0,,,2023-12-18 12:38:45,2023-12-18 12:39:04,"18,317s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-18 12:38:45,2023-12-18 12:38:46,"0,695s",PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,2023-12-18 12:38:46,2023-12-18 12:38:46,"0,121s",PASSED
+navigateToUrl(URL + CONTACT),Chrome 120.0.0.0,,,2023-12-18 12:38:46,2023-12-18 12:38:47,"0,297s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_Diensten""))",Chrome 120.0.0.0,,,2023-12-18 12:38:47,2023-12-18 12:38:47,"0,689s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Diensten_SoftwareTesting""))",Chrome 120.0.0.0,,,2023-12-18 12:38:47,2023-12-18 12:38:48,"1,067s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Software Testing - RisQIT/h1_Software Testing""), ""Software Testing"")",Chrome 120.0.0.0,,,2023-12-18 12:38:48,2023-12-18 12:38:49,"0,517s",PASSED
+navigateToUrl(URL + CONTACT),Chrome 120.0.0.0,,,2023-12-18 12:38:49,2023-12-18 12:38:49,"0,089s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_Diensten""))",Chrome 120.0.0.0,,,2023-12-18 12:38:49,2023-12-18 12:38:50,"0,642s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Diensten_SHT""))",Chrome 120.0.0.0,,,2023-12-18 12:38:50,2023-12-18 12:38:50,"0,629s",PASSED
+"verifyElementText(findTestObject(""Page_Security en HackersTest (SHT) - RisQIT/h1_Security en HackersTest (SHT)""), ""Security En HackersTest (SHT)"")",Chrome 120.0.0.0,,,2023-12-18 12:38:50,2023-12-18 12:38:51,"0,552s",PASSED
+navigateToUrl(URL + CONTACT),Chrome 120.0.0.0,,,2023-12-18 12:38:51,2023-12-18 12:38:51,"0,116s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_Diensten""))",Chrome 120.0.0.0,,,2023-12-18 12:38:51,2023-12-18 12:38:52,"0,672s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Diensten_UXLab""))",Chrome 120.0.0.0,,,2023-12-18 12:38:52,2023-12-18 12:38:52,"0,541s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_UX Lab - RisQIT/h1_UX Lab""), ""UX Lab"")",Chrome 120.0.0.0,,,2023-12-18 12:38:52,2023-12-18 12:38:53,"0,530s",PASSED
+navigateToUrl(URL + CONTACT),Chrome 120.0.0.0,,,2023-12-18 12:38:53,2023-12-18 12:38:53,"0,104s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_OverOns""))",Chrome 120.0.0.0,,,2023-12-18 12:38:53,2023-12-18 12:38:53,"0,574s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Over ons - RisQIT/h1_Over ons""), ""Over Ons"")",Chrome 120.0.0.0,,,2023-12-18 12:38:53,2023-12-18 12:38:54,"0,622s",PASSED
+navigateToUrl(URL + CONTACT),Chrome 120.0.0.0,,,2023-12-18 12:38:54,2023-12-18 12:38:54,"0,111s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_OverOns""))",Chrome 120.0.0.0,,,2023-12-18 12:38:54,2023-12-18 12:38:55,"0,656s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_OverOns_MissieVisie""))",Chrome 120.0.0.0,,,2023-12-18 12:38:55,2023-12-18 12:38:55,"0,538s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Missie  Visie - RisQIT/h1_Missie  Visie""), ""Missie & Visie"")",Chrome 120.0.0.0,,,2023-12-18 12:38:55,2023-12-18 12:38:56,"0,542s",PASSED
+navigateToUrl(URL + CONTACT),Chrome 120.0.0.0,,,2023-12-18 12:38:56,2023-12-18 12:38:56,"0,112s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_OverOns""))",Chrome 120.0.0.0,,,2023-12-18 12:38:56,2023-12-18 12:38:57,"0,692s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_OverOns_HetGilde""))",Chrome 120.0.0.0,,,2023-12-18 12:38:57,2023-12-18 12:38:57,"0,624s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Het Gilde - RisQIT/h1_Het Gilde""), ""Het Gilde"")",Chrome 120.0.0.0,,,2023-12-18 12:38:57,2023-12-18 12:38:58,"0,526s",PASSED
+navigateToUrl(URL + CONTACT),Chrome 120.0.0.0,,,2023-12-18 12:38:58,2023-12-18 12:38:58,"0,102s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_OverOns""))",Chrome 120.0.0.0,,,2023-12-18 12:38:58,2023-12-18 12:38:58,"0,699s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_OverOns_SuperTester""))",Chrome 120.0.0.0,,,2023-12-18 12:38:58,2023-12-18 12:38:59,"0,553s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_SuperTester - RisQIT/h1_Whitepaper SuperTester""), ""Whitepaper SuperTester"")",Chrome 120.0.0.0,,,2023-12-18 12:38:59,2023-12-18 12:39:00,"0,509s",PASSED
+navigateToUrl(URL + CONTACT),Chrome 120.0.0.0,,,2023-12-18 12:39:00,2023-12-18 12:39:00,"0,123s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Blog""))",Chrome 120.0.0.0,,,2023-12-18 12:39:00,2023-12-18 12:39:00,"0,522s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Blog - RisQIT/h1_Blog""), ""Blog"")",Chrome 120.0.0.0,,,2023-12-18 12:39:00,2023-12-18 12:39:01,"0,604s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Vacatures""))",Chrome 120.0.0.0,,,2023-12-18 12:39:01,2023-12-18 12:39:01,"0,327s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Vacatures - RisQIT/h1_Vacatures""), ""Vacatures"")",Chrome 120.0.0.0,,,2023-12-18 12:39:01,2023-12-18 12:39:01,"0,126s",PASSED
+navigateToUrl(URL + CONTACT),Chrome 120.0.0.0,,,2023-12-18 12:39:01,2023-12-18 12:39:01,"0,095s",PASSED
+"click(findTestObject(""Object Repository/MenuTopbar/Page_Vacatures - RisQIT/div_Contact opnemen""))",Chrome 120.0.0.0,,,2023-12-18 12:39:01,2023-12-18 12:39:02,"0,525s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Contact - RisQIT/h1_Contact""), ""Contact"")",Chrome 120.0.0.0,,,2023-12-18 12:39:02,2023-12-18 12:39:03,"0,627s",PASSED
+"click(findTestObject(""MenuTopbar/img_Logo""))",Chrome 120.0.0.0,,,2023-12-18 12:39:03,2023-12-18 12:39:03,"0,395s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Home - RisQIT/h1_Ga voor duurzaamheid en vertrouwen, same_4bc4a8""), ""Ga voor duurzaamheid en vertrouwen, samen met ons!"")",Chrome 120.0.0.0,,,2023-12-18 12:39:03,2023-12-18 12:39:04,"0,631s",PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2023-12-18 12:39:04,2023-12-18 12:39:04,"0,144s",PASSED
+,,,,,,,
+Test Cases/Menu/RT012 MenuClicks - AlgVoorwaarden,Chrome 120.0.0.0,,,2023-12-18 12:39:04,2023-12-18 12:39:22,"17,900s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-18 12:39:04,2023-12-18 12:39:04,"0,618s",PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,2023-12-18 12:39:04,2023-12-18 12:39:05,"0,138s",PASSED
+navigateToUrl(URL + ALGVOORW),Chrome 120.0.0.0,,,2023-12-18 12:39:05,2023-12-18 12:39:05,"0,366s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_Diensten""))",Chrome 120.0.0.0,,,2023-12-18 12:39:05,2023-12-18 12:39:05,"0,598s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Diensten_SoftwareTesting""))",Chrome 120.0.0.0,,,2023-12-18 12:39:05,2023-12-18 12:39:07,"1,024s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Software Testing - RisQIT/h1_Software Testing""), ""Software Testing"")",Chrome 120.0.0.0,,,2023-12-18 12:39:07,2023-12-18 12:39:07,"0,539s",PASSED
+navigateToUrl(URL + ALGVOORW),Chrome 120.0.0.0,,,2023-12-18 12:39:07,2023-12-18 12:39:07,"0,096s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_Diensten""))",Chrome 120.0.0.0,,,2023-12-18 12:39:07,2023-12-18 12:39:08,"0,670s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Diensten_SHT""))",Chrome 120.0.0.0,,,2023-12-18 12:39:08,2023-12-18 12:39:08,"0,559s",PASSED
+"verifyElementText(findTestObject(""Page_Security en HackersTest (SHT) - RisQIT/h1_Security en HackersTest (SHT)""), ""Security En HackersTest (SHT)"")",Chrome 120.0.0.0,,,2023-12-18 12:39:08,2023-12-18 12:39:09,"0,529s",PASSED
+navigateToUrl(URL + ALGVOORW),Chrome 120.0.0.0,,,2023-12-18 12:39:09,2023-12-18 12:39:09,"0,092s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_Diensten""))",Chrome 120.0.0.0,,,2023-12-18 12:39:09,2023-12-18 12:39:10,"0,691s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Diensten_UXLab""))",Chrome 120.0.0.0,,,2023-12-18 12:39:10,2023-12-18 12:39:10,"0,524s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_UX Lab - RisQIT/h1_UX Lab""), ""UX Lab"")",Chrome 120.0.0.0,,,2023-12-18 12:39:10,2023-12-18 12:39:11,"0,424s",PASSED
+navigateToUrl(URL + ALGVOORW),Chrome 120.0.0.0,,,2023-12-18 12:39:11,2023-12-18 12:39:11,"0,105s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_OverOns""))",Chrome 120.0.0.0,,,2023-12-18 12:39:11,2023-12-18 12:39:11,"0,546s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Over ons - RisQIT/h1_Over ons""), ""Over Ons"")",Chrome 120.0.0.0,,,2023-12-18 12:39:11,2023-12-18 12:39:12,"0,599s",PASSED
+navigateToUrl(URL + ALGVOORW),Chrome 120.0.0.0,,,2023-12-18 12:39:12,2023-12-18 12:39:12,"0,105s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_OverOns""))",Chrome 120.0.0.0,,,2023-12-18 12:39:12,2023-12-18 12:39:13,"0,652s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_OverOns_MissieVisie""))",Chrome 120.0.0.0,,,2023-12-18 12:39:13,2023-12-18 12:39:13,"0,631s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Missie  Visie - RisQIT/h1_Missie  Visie""), ""Missie & Visie"")",Chrome 120.0.0.0,,,2023-12-18 12:39:13,2023-12-18 12:39:14,"0,540s",PASSED
+navigateToUrl(URL + ALGVOORW),Chrome 120.0.0.0,,,2023-12-18 12:39:14,2023-12-18 12:39:14,"0,111s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_OverOns""))",Chrome 120.0.0.0,,,2023-12-18 12:39:14,2023-12-18 12:39:15,"0,696s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_OverOns_HetGilde""))",Chrome 120.0.0.0,,,2023-12-18 12:39:15,2023-12-18 12:39:15,"0,623s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Het Gilde - RisQIT/h1_Het Gilde""), ""Het Gilde"")",Chrome 120.0.0.0,,,2023-12-18 12:39:15,2023-12-18 12:39:16,"0,537s",PASSED
+navigateToUrl(URL + ALGVOORW),Chrome 120.0.0.0,,,2023-12-18 12:39:16,2023-12-18 12:39:16,"0,115s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_OverOns""))",Chrome 120.0.0.0,,,2023-12-18 12:39:16,2023-12-18 12:39:17,"0,685s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_OverOns_SuperTester""))",Chrome 120.0.0.0,,,2023-12-18 12:39:17,2023-12-18 12:39:17,"0,594s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_SuperTester - RisQIT/h1_Whitepaper SuperTester""), ""Whitepaper SuperTester"")",Chrome 120.0.0.0,,,2023-12-18 12:39:17,2023-12-18 12:39:18,"0,539s",PASSED
+navigateToUrl(URL + ALGVOORW),Chrome 120.0.0.0,,,2023-12-18 12:39:18,2023-12-18 12:39:18,"0,122s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Blog""))",Chrome 120.0.0.0,,,2023-12-18 12:39:18,2023-12-18 12:39:18,"0,486s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Blog - RisQIT/h1_Blog""), ""Blog"")",Chrome 120.0.0.0,,,2023-12-18 12:39:18,2023-12-18 12:39:18,"0,149s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Vacatures""))",Chrome 120.0.0.0,,,2023-12-18 12:39:18,2023-12-18 12:39:19,"0,445s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Vacatures - RisQIT/h1_Vacatures""), ""Vacatures"")",Chrome 120.0.0.0,,,2023-12-18 12:39:19,2023-12-18 12:39:20,"0,597s",PASSED
+navigateToUrl(URL + ALGVOORW),Chrome 120.0.0.0,,,2023-12-18 12:39:20,2023-12-18 12:39:20,"0,100s",PASSED
+"click(findTestObject(""Object Repository/MenuTopbar/Page_Vacatures - RisQIT/div_Contact opnemen""))",Chrome 120.0.0.0,,,2023-12-18 12:39:20,2023-12-18 12:39:20,"0,588s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Contact - RisQIT/h1_Contact""), ""Contact"")",Chrome 120.0.0.0,,,2023-12-18 12:39:20,2023-12-18 12:39:20,"0,149s",PASSED
+"click(findTestObject(""MenuTopbar/img_Logo""))",Chrome 120.0.0.0,,,2023-12-18 12:39:20,2023-12-18 12:39:21,"0,471s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Home - RisQIT/h1_Ga voor duurzaamheid en vertrouwen, same_4bc4a8""), ""Ga voor duurzaamheid en vertrouwen, samen met ons!"")",Chrome 120.0.0.0,,,2023-12-18 12:39:21,2023-12-18 12:39:21,"0,625s",PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2023-12-18 12:39:21,2023-12-18 12:39:22,"0,137s",PASSED
+,,,,,,,
+Test Cases/Menu/RT013 MenuClicks - Privacybeleid,Chrome 120.0.0.0,,,2023-12-18 12:39:22,2023-12-18 12:39:41,"19,002s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-18 12:39:22,2023-12-18 12:39:22,"0,633s",PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,2023-12-18 12:39:22,2023-12-18 12:39:22,"0,138s",PASSED
+navigateToUrl(URL + PRIVACYBELEID),Chrome 120.0.0.0,,,2023-12-18 12:39:22,2023-12-18 12:39:23,"0,377s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_Diensten""))",Chrome 120.0.0.0,,,2023-12-18 12:39:23,2023-12-18 12:39:23,"0,699s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Diensten_SoftwareTesting""))",Chrome 120.0.0.0,,,2023-12-18 12:39:23,2023-12-18 12:39:24,"0,996s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Software Testing - RisQIT/h1_Software Testing""), ""Software Testing"")",Chrome 120.0.0.0,,,2023-12-18 12:39:24,2023-12-18 12:39:25,"0,523s",PASSED
+navigateToUrl(URL + PRIVACYBELEID),Chrome 120.0.0.0,,,2023-12-18 12:39:25,2023-12-18 12:39:25,"0,127s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_Diensten""))",Chrome 120.0.0.0,,,2023-12-18 12:39:25,2023-12-18 12:39:26,"0,552s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Diensten_SHT""))",Chrome 120.0.0.0,,,2023-12-18 12:39:26,2023-12-18 12:39:26,"0,558s",PASSED
+"verifyElementText(findTestObject(""Page_Security en HackersTest (SHT) - RisQIT/h1_Security en HackersTest (SHT)""), ""Security En HackersTest (SHT)"")",Chrome 120.0.0.0,,,2023-12-18 12:39:26,2023-12-18 12:39:27,"0,544s",PASSED
+navigateToUrl(URL + PRIVACYBELEID),Chrome 120.0.0.0,,,2023-12-18 12:39:27,2023-12-18 12:39:27,"0,092s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_Diensten""))",Chrome 120.0.0.0,,,2023-12-18 12:39:27,2023-12-18 12:39:28,"0,656s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Diensten_UXLab""))",Chrome 120.0.0.0,,,2023-12-18 12:39:28,2023-12-18 12:39:28,"0,542s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_UX Lab - RisQIT/h1_UX Lab""), ""UX Lab"")",Chrome 120.0.0.0,,,2023-12-18 12:39:28,2023-12-18 12:39:29,"0,514s",PASSED
+navigateToUrl(URL + PRIVACYBELEID),Chrome 120.0.0.0,,,2023-12-18 12:39:29,2023-12-18 12:39:29,"0,103s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_OverOns""))",Chrome 120.0.0.0,,,2023-12-18 12:39:29,2023-12-18 12:39:29,"0,543s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Over ons - RisQIT/h1_Over ons""), ""Over Ons"")",Chrome 120.0.0.0,,,2023-12-18 12:39:29,2023-12-18 12:39:30,"0,593s",PASSED
+navigateToUrl(URL + PRIVACYBELEID),Chrome 120.0.0.0,,,2023-12-18 12:39:30,2023-12-18 12:39:30,"0,105s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_OverOns""))",Chrome 120.0.0.0,,,2023-12-18 12:39:30,2023-12-18 12:39:31,"0,662s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_OverOns_MissieVisie""))",Chrome 120.0.0.0,,,2023-12-18 12:39:31,2023-12-18 12:39:31,"0,632s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Missie  Visie - RisQIT/h1_Missie  Visie""), ""Missie & Visie"")",Chrome 120.0.0.0,,,2023-12-18 12:39:31,2023-12-18 12:39:32,"0,536s",PASSED
+navigateToUrl(URL + PRIVACYBELEID),Chrome 120.0.0.0,,,2023-12-18 12:39:32,2023-12-18 12:39:32,"0,122s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_OverOns""))",Chrome 120.0.0.0,,,2023-12-18 12:39:32,2023-12-18 12:39:33,"0,714s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_OverOns_HetGilde""))",Chrome 120.0.0.0,,,2023-12-18 12:39:33,2023-12-18 12:39:33,"0,561s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Het Gilde - RisQIT/h1_Het Gilde""), ""Het Gilde"")",Chrome 120.0.0.0,,,2023-12-18 12:39:33,2023-12-18 12:39:34,"0,537s",PASSED
+navigateToUrl(URL + PRIVACYBELEID),Chrome 120.0.0.0,,,2023-12-18 12:39:34,2023-12-18 12:39:34,"0,112s",PASSED
+"mouseOver(findTestObject(""MenuTopbar/btn_Menu_OverOns""))",Chrome 120.0.0.0,,,2023-12-18 12:39:34,2023-12-18 12:39:34,"0,689s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_OverOns_SuperTester""))",Chrome 120.0.0.0,,,2023-12-18 12:39:34,2023-12-18 12:39:36,"1,269s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_SuperTester - RisQIT/h1_Whitepaper SuperTester""), ""Whitepaper SuperTester"")",Chrome 120.0.0.0,,,2023-12-18 12:39:36,2023-12-18 12:39:36,"0,496s",PASSED
+navigateToUrl(URL + PRIVACYBELEID),Chrome 120.0.0.0,,,2023-12-18 12:39:36,2023-12-18 12:39:36,"0,104s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Blog""))",Chrome 120.0.0.0,,,2023-12-18 12:39:36,2023-12-18 12:39:37,"0,536s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Blog - RisQIT/h1_Blog""), ""Blog"")",Chrome 120.0.0.0,,,2023-12-18 12:39:37,2023-12-18 12:39:38,"0,627s",PASSED
+"click(findTestObject(""MenuTopbar/btn_Menu_Vacatures""))",Chrome 120.0.0.0,,,2023-12-18 12:39:38,2023-12-18 12:39:38,"0,382s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Vacatures - RisQIT/h1_Vacatures""), ""Vacatures"")",Chrome 120.0.0.0,,,2023-12-18 12:39:38,2023-12-18 12:39:39,"0,623s",PASSED
+navigateToUrl(URL + PRIVACYBELEID),Chrome 120.0.0.0,,,2023-12-18 12:39:39,2023-12-18 12:39:39,"0,121s",PASSED
+"click(findTestObject(""Object Repository/MenuTopbar/Page_Vacatures - RisQIT/div_Contact opnemen""))",Chrome 120.0.0.0,,,2023-12-18 12:39:39,2023-12-18 12:39:39,"0,556s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Contact - RisQIT/h1_Contact""), ""Contact"")",Chrome 120.0.0.0,,,2023-12-18 12:39:39,2023-12-18 12:39:39,"0,153s",PASSED
+"click(findTestObject(""MenuTopbar/img_Logo""))",Chrome 120.0.0.0,,,2023-12-18 12:39:39,2023-12-18 12:39:40,"0,479s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Home - RisQIT/h1_Ga voor duurzaamheid en vertrouwen, same_4bc4a8""), ""Ga voor duurzaamheid en vertrouwen, samen met ons!"")",Chrome 120.0.0.0,,,2023-12-18 12:39:40,2023-12-18 12:39:40,"0,602s",PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2023-12-18 12:39:40,2023-12-18 12:39:41,"0,140s",PASSED

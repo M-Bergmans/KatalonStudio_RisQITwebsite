@@ -1,0 +1,91 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS01 MenuCheck,Chrome 120.0.0.0,Check functionality of the menu in desktop view for all pages,,2023-12-18 13:58:52,2023-12-18 14:03:02,"4m - 9,863s",FAILED
+,,,,,,,
+Test Cases/Menu/RT001 MenuClicks - Homepage,Chrome 120.0.0.0,,,2023-12-18 13:58:52,2023-12-18 13:59:17,"24,879s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-18 13:58:52,2023-12-18 13:58:53,"1,232s",PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,2023-12-18 13:58:53,2023-12-18 13:58:53,"0,137s",PASSED
+navigateToUrl(URL),Chrome 120.0.0.0,,,2023-12-18 13:58:53,2023-12-18 13:58:55,"1,520s",PASSED
+"callTestCase(findTestCase(""Menu/RT000 MenuClicks""), [:], STOP_ON_FAILURE)",Chrome 120.0.0.0,,,2023-12-18 13:58:55,2023-12-18 13:59:17,"21,651s",PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2023-12-18 13:59:17,2023-12-18 13:59:17,"0,145s",PASSED
+,,,,,,,
+Test Cases/Menu/RT002 MenuClicks - SoftwareTesting,Chrome 120.0.0.0,,,2023-12-18 13:59:17,2023-12-18 13:59:22,"4,801s",FAILED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-18 13:59:17,2023-12-18 13:59:17,"0,615s",PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,2023-12-18 13:59:17,2023-12-18 13:59:18,"0,130s",PASSED
+navigateToUrl(URL + SOFTWARETESTING),Chrome 120.0.0.0,,,2023-12-18 13:59:18,2023-12-18 13:59:18,"0,304s",PASSED
+"callTestCase(findTestCase(""Menu/RT000 MenuClicks""), [:], STOP_ON_FAILURE)",Chrome 120.0.0.0,,,2023-12-18 13:59:18,2023-12-18 13:59:22,"3,684s",FAILED
+,,,,,,,
+Test Cases/Menu/RT003 MenuClicks - SHT,Chrome 120.0.0.0,,,2023-12-18 13:59:22,2023-12-18 13:59:45,"23,287s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-18 13:59:22,2023-12-18 13:59:27,"5,840s",PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,2023-12-18 13:59:27,2023-12-18 13:59:28,"0,130s",PASSED
+navigateToUrl(URL + SHT),Chrome 120.0.0.0,,,2023-12-18 13:59:28,2023-12-18 13:59:28,"0,268s",PASSED
+"callTestCase(findTestCase(""Menu/RT000 MenuClicks""), [:], STOP_ON_FAILURE)",Chrome 120.0.0.0,,,2023-12-18 13:59:28,2023-12-18 13:59:45,"16,838s",PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2023-12-18 13:59:45,2023-12-18 13:59:45,"0,152s",PASSED
+,,,,,,,
+Test Cases/Menu/RT004 MenuClicks - UX-Lab,Chrome 120.0.0.0,,,2023-12-18 13:59:45,2023-12-18 14:00:04,"19,008s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-18 13:59:45,2023-12-18 13:59:46,"0,663s",PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,2023-12-18 13:59:46,2023-12-18 13:59:46,"0,119s",PASSED
+navigateToUrl(URL + UXLAB),Chrome 120.0.0.0,,,2023-12-18 13:59:46,2023-12-18 13:59:47,"1,500s",PASSED
+"callTestCase(findTestCase(""Menu/RT000 MenuClicks""), [:], STOP_ON_FAILURE)",Chrome 120.0.0.0,,,2023-12-18 13:59:47,2023-12-18 14:00:04,"16,551s",PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2023-12-18 14:00:04,2023-12-18 14:00:04,"0,133s",PASSED
+,,,,,,,
+Test Cases/Menu/RT005 MenuClicks - Over Ons,Chrome 120.0.0.0,,,2023-12-18 14:00:04,2023-12-18 14:00:22,"17,827s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-18 14:00:04,2023-12-18 14:00:05,"0,636s",PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,2023-12-18 14:00:05,2023-12-18 14:00:05,"0,143s",PASSED
+navigateToUrl(URL + OVER_ONS),Chrome 120.0.0.0,,,2023-12-18 14:00:05,2023-12-18 14:00:05,"0,306s",PASSED
+"callTestCase(findTestCase(""Menu/RT000 MenuClicks""), [:], STOP_ON_FAILURE)",Chrome 120.0.0.0,,,2023-12-18 14:00:05,2023-12-18 14:00:22,"16,526s",PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2023-12-18 14:00:22,2023-12-18 14:00:22,"0,147s",PASSED
+,,,,,,,
+Test Cases/Menu/RT006 MenuClicks - Missie_Visie,Chrome 120.0.0.0,,,2023-12-18 14:00:22,2023-12-18 14:00:40,"18,064s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-18 14:00:22,2023-12-18 14:00:22,"0,634s",PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,2023-12-18 14:00:22,2023-12-18 14:00:22,"0,131s",PASSED
+navigateToUrl(URL + OVER_ONS + MISSIE_VISIE),Chrome 120.0.0.0,,,2023-12-18 14:00:22,2023-12-18 14:00:23,"0,280s",PASSED
+"callTestCase(findTestCase(""Menu/RT000 MenuClicks""), [:], STOP_ON_FAILURE)",Chrome 120.0.0.0,,,2023-12-18 14:00:23,2023-12-18 14:00:40,"16,828s",PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2023-12-18 14:00:40,2023-12-18 14:00:40,"0,145s",PASSED
+,,,,,,,
+Test Cases/Menu/RT007 MenuClicks - Het Gilde,Chrome 120.0.0.0,,,2023-12-18 14:00:40,2023-12-18 14:00:58,"18,124s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-18 14:00:40,2023-12-18 14:00:40,"0,633s",PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,2023-12-18 14:00:40,2023-12-18 14:00:41,"0,133s",PASSED
+navigateToUrl(URL + OVER_ONS + HETGILDE),Chrome 120.0.0.0,,,2023-12-18 14:00:41,2023-12-18 14:00:41,"0,316s",PASSED
+"callTestCase(findTestCase(""Menu/RT000 MenuClicks""), [:], STOP_ON_FAILURE)",Chrome 120.0.0.0,,,2023-12-18 14:00:41,2023-12-18 14:00:58,"16,875s",PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2023-12-18 14:00:58,2023-12-18 14:00:58,"0,109s",PASSED
+,,,,,,,
+Test Cases/Menu/RT008 MenuClicks - SuperTester,Chrome 120.0.0.0,,,2023-12-18 14:00:58,2023-12-18 14:01:31,"32,784s",FAILED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-18 14:00:58,2023-12-18 14:00:59,"0,611s",PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,2023-12-18 14:00:59,2023-12-18 14:00:59,"0,125s",PASSED
+navigateToUrl(URL + OVER_ONS + SUPERTESTER),Chrome 120.0.0.0,,,2023-12-18 14:00:59,2023-12-18 14:01:00,"1,038s",PASSED
+"callTestCase(findTestCase(""Menu/RT000 MenuClicks""), [:], STOP_ON_FAILURE)",Chrome 120.0.0.0,,,2023-12-18 14:01:00,2023-12-18 14:01:31,"30,950s",FAILED
+,,,,,,,
+Test Cases/Menu/RT009 MenuClicks - Blog,Chrome 120.0.0.0,,,2023-12-18 14:01:31,2023-12-18 14:01:49,"18,758s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-18 14:01:31,2023-12-18 14:01:31,"0,780s",PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,2023-12-18 14:01:31,2023-12-18 14:01:32,"0,133s",PASSED
+navigateToUrl(URL + BLOG),Chrome 120.0.0.0,,,2023-12-18 14:01:32,2023-12-18 14:01:32,"0,563s",PASSED
+"callTestCase(findTestCase(""Menu/RT000 MenuClicks""), [:], STOP_ON_FAILURE)",Chrome 120.0.0.0,,,2023-12-18 14:01:32,2023-12-18 14:01:49,"17,137s",PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2023-12-18 14:01:49,2023-12-18 14:01:49,"0,098s",PASSED
+,,,,,,,
+Test Cases/Menu/RT010 MenuClicks - Vacatures,Chrome 120.0.0.0,,,2023-12-18 14:01:49,2023-12-18 14:02:07,"17,544s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-18 14:01:49,2023-12-18 14:01:50,"0,687s",PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,2023-12-18 14:01:50,2023-12-18 14:01:50,"0,133s",PASSED
+navigateToUrl(URL + VACATURES),Chrome 120.0.0.0,,,2023-12-18 14:01:50,2023-12-18 14:01:51,"0,288s",PASSED
+"callTestCase(findTestCase(""Menu/RT000 MenuClicks""), [:], STOP_ON_FAILURE)",Chrome 120.0.0.0,,,2023-12-18 14:01:51,2023-12-18 14:02:07,"16,259s",PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2023-12-18 14:02:07,2023-12-18 14:02:07,"0,116s",PASSED
+,,,,,,,
+Test Cases/Menu/RT011 MenuClicks - Contact,Chrome 120.0.0.0,,,2023-12-18 14:02:07,2023-12-18 14:02:24,"17,387s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-18 14:02:07,2023-12-18 14:02:08,"0,624s",PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,2023-12-18 14:02:08,2023-12-18 14:02:08,"0,137s",PASSED
+navigateToUrl(URL + CONTACT),Chrome 120.0.0.0,,,2023-12-18 14:02:08,2023-12-18 14:02:08,"0,325s",PASSED
+"callTestCase(findTestCase(""Menu/RT000 MenuClicks""), [:], STOP_ON_FAILURE)",Chrome 120.0.0.0,,,2023-12-18 14:02:08,2023-12-18 14:02:24,"16,087s",PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2023-12-18 14:02:24,2023-12-18 14:02:24,"0,158s",PASSED
+,,,,,,,
+Test Cases/Menu/RT012 MenuClicks - AlgVoorwaarden,Chrome 120.0.0.0,,,2023-12-18 14:02:24,2023-12-18 14:02:43,"18,910s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-18 14:02:24,2023-12-18 14:02:25,"0,625s",PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,2023-12-18 14:02:25,2023-12-18 14:02:25,"0,126s",PASSED
+navigateToUrl(URL + ALGVOORW),Chrome 120.0.0.0,,,2023-12-18 14:02:25,2023-12-18 14:02:26,"0,379s",PASSED
+"callTestCase(findTestCase(""Menu/RT000 MenuClicks""), [:], STOP_ON_FAILURE)",Chrome 120.0.0.0,,,2023-12-18 14:02:26,2023-12-18 14:02:43,"17,566s",PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2023-12-18 14:02:43,2023-12-18 14:02:43,"0,164s",PASSED
+,,,,,,,
+Test Cases/Menu/RT013 MenuClicks - Privacybeleid,Chrome 120.0.0.0,,,2023-12-18 14:02:43,2023-12-18 14:03:02,"18,354s",PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-18 14:02:43,2023-12-18 14:02:44,"0,639s",PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,2023-12-18 14:02:44,2023-12-18 14:02:44,"0,128s",PASSED
+navigateToUrl(URL + PRIVACYBELEID),Chrome 120.0.0.0,,,2023-12-18 14:02:44,2023-12-18 14:02:44,"0,405s",PASSED
+"callTestCase(findTestCase(""Menu/RT000 MenuClicks""), [:], STOP_ON_FAILURE)",Chrome 120.0.0.0,,,2023-12-18 14:02:44,2023-12-18 14:03:01,"16,997s",PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2023-12-18 14:03:01,2023-12-18 14:03:02,"0,137s",PASSED
