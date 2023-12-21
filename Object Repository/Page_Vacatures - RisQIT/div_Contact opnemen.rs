@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Contact opnemen</name>
+   <tag></tag>
+   <elementGuidId>40060d1b-520f-49b6-afbe-df18cf11a334</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ast-mobile-popup']/div[2]/div[2]/div[2]/div/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ast-mobile-popup-content > div.ast-builder-layout-element.ast-flex.site-header-focus-item.ast-header-button-1 > div.ast-builder-button-wrap.ast-builder-button-size-sm > a.ast-custom-button-link > div.ast-custom-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>32b7f3c9-e7f2-4ad4-adf7-b3477a9b37b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ast-custom-button</value>
+      <webElementGuid>8fdb7c96-a232-4b28-aaac-50ebdcd69bcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Contact opnemen</value>
+      <webElementGuid>0535b276-706b-49dd-a8b7-7f9c8f766cb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ast-mobile-popup&quot;)/div[@class=&quot;ast-mobile-popup-inner&quot;]/div[@class=&quot;ast-mobile-popup-content&quot;]/div[@class=&quot;ast-builder-layout-element ast-flex site-header-focus-item ast-header-button-1&quot;]/div[@class=&quot;ast-builder-button-wrap ast-builder-button-size-sm&quot;]/a[@class=&quot;ast-custom-button-link&quot;]/div[@class=&quot;ast-custom-button&quot;]</value>
+      <webElementGuid>0cc1e855-2676-4d53-9a60-0818a93088aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ast-mobile-popup']/div[2]/div[2]/div[2]/div/a/div</value>
+      <webElementGuid>52ce7af9-f07e-40a1-9a1e-737325312b5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div/a/div</value>
+      <webElementGuid>fa613fdf-1b94-4f9d-9d8b-3d8862d2ed73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Contact opnemen' or . = 'Contact opnemen')]</value>
+      <webElementGuid>1a6b6aa3-19c3-4dff-a6c8-1eaf9456d2f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ast-desktop-header']/div/div/div/div/div[2]/div[2]/div/a/div</value>
+      <webElementGuid>a1a6ad73-f835-4c8e-9a87-fc847ad92d85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div</value>
+      <webElementGuid>4f3a4d5e-e421-4cfd-8b67-5fdb0950ee58</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

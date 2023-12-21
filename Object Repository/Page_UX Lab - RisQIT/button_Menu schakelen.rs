@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Menu schakelen</name>
+   <tag></tag>
+   <elementGuidId>e2bb5232-a1a8-41ae-8b02-58325f303d82</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//ul[@id='ast-hf-menu-1']/li[2]/button)[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ast-mobile-popup-content > div.ast-builder-menu-1.ast-builder-menu.ast-flex.ast-builder-menu-1-focus-item.ast-builder-layout-element.site-header-focus-item > div.ast-main-header-bar-alignment > div.main-header-bar-navigation > #primary-site-navigation > div.main-navigation.ast-inline-flex > #ast-hf-menu-1 > li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-has-children.menu-item-355 > button.ast-menu-toggle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>37bdbeec-992e-4bf4-a2e7-bc7884704af8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ast-menu-toggle</value>
+      <webElementGuid>6b8ad4e6-fc19-444e-9e58-197c14287db9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>e483b429-75d3-49bf-9bce-d843a0e9677c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Menu schakelen</value>
+      <webElementGuid>6e139bd4-5b60-4e9e-a6c0-6c5ddda7623e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ast-mobile-popup&quot;)/div[@class=&quot;ast-mobile-popup-inner&quot;]/div[@class=&quot;ast-mobile-popup-content&quot;]/div[@class=&quot;ast-builder-menu-1 ast-builder-menu ast-flex ast-builder-menu-1-focus-item ast-builder-layout-element site-header-focus-item&quot;]/div[@class=&quot;ast-main-header-bar-alignment&quot;]/div[@class=&quot;main-header-bar-navigation&quot;]/nav[@id=&quot;primary-site-navigation&quot;]/div[@class=&quot;main-navigation ast-inline-flex&quot;]/ul[@id=&quot;ast-hf-menu-1&quot;]/li[@class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-355&quot;]/button[@class=&quot;ast-menu-toggle&quot;]</value>
+      <webElementGuid>46a028b2-bd4c-4cf3-a3eb-40b670b0b4f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//ul[@id='ast-hf-menu-1']/li[2]/button)[2]</value>
+      <webElementGuid>b5988aff-b01b-4cd3-b87a-081ac871c421</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/nav/div/ul/li[2]/button</value>
+      <webElementGuid>32befbc7-0d6f-4f7f-bc4f-63d14f9c836c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Menu schakelen' or . = 'Menu schakelen')]</value>
+      <webElementGuid>4b2b89d0-7346-42a1-a869-e65c178d557b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
