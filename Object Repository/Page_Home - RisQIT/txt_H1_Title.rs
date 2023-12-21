@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_H1_Title</name>
+   <tag></tag>
+   <elementGuidId>1e874d58-8303-4deb-a127-99e36a9b41d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h1	</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>fa277a7e-a2f4-4871-aa43-d7eac922589f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ga voor duurzaamheid en vertrouwen, samen met ons!</value>
+      <webElementGuid>1e5853b6-f79c-4342-8f88-a4ee58724b8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-24365&quot;)/div[@class=&quot;entry-content clear&quot;]/div[@class=&quot;wp-block-uagb-container uagb-block-bef2b774 alignfull uagb-is-root-container&quot;]/div[@class=&quot;uagb-container-inner-blocks-wrap&quot;]/div[@class=&quot;wp-block-uagb-container uagb-block-abe7c99b&quot;]/h1[1]</value>
+      <webElementGuid>509a2e6a-a546-434c-b06d-0a8fe57cdb11</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-24365']/div/div/div/div/h1</value>
+      <webElementGuid>ba19b49f-7194-4c2d-aa50-0802e3b7235d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>ee7ef3ca-c8da-4315-946d-2c7bc5e800fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Ga voor duurzaamheid en vertrouwen, samen met ons!' or . = 'Ga voor duurzaamheid en vertrouwen, samen met ons!')]</value>
+      <webElementGuid>041c004e-e8fa-4078-9f7d-ebcbd958c91f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

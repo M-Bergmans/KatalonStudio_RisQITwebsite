@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Contact opnemen</name>
+   <tag></tag>
+   <elementGuidId>92f924c1-e790-411a-bba8-d2ee1a5dcb6b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ast-desktop-header']/div/div/div/div/div[2]/div[2]/div/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ast-custom-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>981593cc-acfa-47eb-b6eb-cf834b93297e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ast-custom-button</value>
+      <webElementGuid>add3b29b-d5f5-462e-9e87-5523d6b52eff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Contact opnemen</value>
+      <webElementGuid>d28111a8-6638-4020-ad75-5f063caa7dc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ast-desktop-header&quot;)/div[@class=&quot;ast-main-header-wrap main-header-bar-wrap&quot;]/div[@class=&quot;ast-primary-header-bar ast-primary-header main-header-bar site-header-focus-item&quot;]/div[@class=&quot;site-primary-header-wrap ast-builder-grid-row-container site-header-focus-item ast-container&quot;]/div[@class=&quot;ast-builder-grid-row ast-builder-grid-row-has-sides ast-builder-grid-row-no-center&quot;]/div[@class=&quot;site-header-primary-section-right site-header-section ast-flex ast-grid-right-section&quot;]/div[@class=&quot;ast-builder-layout-element ast-flex site-header-focus-item ast-header-button-1&quot;]/div[@class=&quot;ast-builder-button-wrap ast-builder-button-size-sm&quot;]/a[@class=&quot;ast-custom-button-link&quot;]/div[@class=&quot;ast-custom-button&quot;]</value>
+      <webElementGuid>1b03b63b-a262-44ad-8ef9-1d7a66722b5f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ast-desktop-header']/div/div/div/div/div[2]/div[2]/div/a/div</value>
+      <webElementGuid>8f88addf-aac4-42a9-ae4c-75418591da03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div</value>
+      <webElementGuid>7ee7e2e7-f60e-493e-b0ab-04ba117ce198</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Contact opnemen' or . = 'Contact opnemen')]</value>
+      <webElementGuid>815e9078-ad3d-48fb-bbbf-464d5da1af38</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

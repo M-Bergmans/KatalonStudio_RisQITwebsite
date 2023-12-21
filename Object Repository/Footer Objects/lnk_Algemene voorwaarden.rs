@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lnk_Algemene voorwaarden</name>
+   <tag></tag>
+   <elementGuidId>3b44e2ad-3813-4764-b244-d80907df151a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='block-3']/div[5]/p[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.has-small-font-size > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>085cc68a-4ef5-418a-a451-bfed66b901a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/algemene-voorwaarden/</value>
+      <webElementGuid>15c60ddf-0d8b-4d54-8f87-6fe0108b389a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Algemene voorwaarden</value>
+      <webElementGuid>a4870c08-ec9f-47b0-a474-1b5dcbc3fff4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;block-3&quot;)/div[@class=&quot;is-content-justification-center is-nowrap is-layout-flex wp-container-14 wp-block-group&quot;]/p[@class=&quot;has-small-font-size&quot;]/a[1]</value>
+      <webElementGuid>0b9604e7-a775-45fa-b98d-7ab7be0d8b12</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='block-3']/div[5]/p[2]/a</value>
+      <webElementGuid>c78fbfef-bc29-4d21-8c31-6dcc5dd013be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Algemene voorwaarden')]</value>
+      <webElementGuid>2219a63f-1cab-4f71-a35a-6456cf970e4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/algemene-voorwaarden/')]</value>
+      <webElementGuid>dc8e393c-b64b-4514-a5e3-e62c726e26fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/p[2]/a</value>
+      <webElementGuid>ce6cc9e1-2032-48c0-b94c-4d7a011f8e18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/algemene-voorwaarden/' and (text() = 'Algemene voorwaarden' or . = 'Algemene voorwaarden')]</value>
+      <webElementGuid>c856bd7f-21bf-44b3-a747-693f0f980149</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

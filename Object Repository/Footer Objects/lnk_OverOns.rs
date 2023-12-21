@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lnk_OverOns</name>
+   <tag></tag>
+   <elementGuidId>50c9529e-d2e9-477c-aeba-f7932f2c75d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='block-3']/div/div[2]/p[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-of-type(3) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>569a495e-16ff-49c0-ac1d-74146ca116ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://nlrisqitww-chaca.savviihq.com/over-ons/</value>
+      <webElementGuid>ea7915c9-9b1b-4c3d-a021-a6cc1870ad5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-type</name>
+      <type>Main</type>
+      <value>page</value>
+      <webElementGuid>9375d3c6-5376-4171-8d02-7f13466719de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>326</value>
+      <webElementGuid>101084ee-512e-417c-854d-b47e62c9d2c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Over ons</value>
+      <webElementGuid>7e93e092-d9f5-4fe4-9468-36116e5ee2cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;block-3&quot;)/div[@class=&quot;is-layout-flex wp-container-12 wp-block-columns&quot;]/div[@class=&quot;is-layout-flow wp-block-column&quot;]/p[3]/a[1]</value>
+      <webElementGuid>a57ffd06-4bb5-47cf-a213-c3b722b54247</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='block-3']/div/div[2]/p[3]/a</value>
+      <webElementGuid>59184ecc-a1d1-465d-ae45-37f057e4cad6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Over ons')])[3]</value>
+      <webElementGuid>7c776090-5cab-41a3-b019-c24f30a1ae59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://nlrisqitww-chaca.savviihq.com/over-ons/')])[8]</value>
+      <webElementGuid>1f44fd90-7383-488a-b049-2f54bacd13f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[3]/a</value>
+      <webElementGuid>6d06067f-4b0d-4c37-9b3b-e64947fcd33f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://nlrisqitww-chaca.savviihq.com/over-ons/' and (text() = 'Over ons' or . = 'Over ons')]</value>
+      <webElementGuid>a9b20a02-5a24-4a97-9737-15a1336ca160</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

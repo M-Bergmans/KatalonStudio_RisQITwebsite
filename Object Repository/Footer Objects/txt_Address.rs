@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_Address</name>
+   <tag></tag>
+   <elementGuidId>8b0e6a85-d85e-4eb5-bce4-2bf30bb83315</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='block-3']/div/div/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.is-layout-flow.wp-block-column > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>aba3f1d2-0c8c-42e0-9e21-91184b94a5df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>POSTADRESBloemstraat 8b 6851 CS Huissen</value>
+      <webElementGuid>eb27f196-d808-4971-a9be-656a98492c27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;block-3&quot;)/div[@class=&quot;is-layout-flex wp-container-12 wp-block-columns&quot;]/div[@class=&quot;is-layout-flow wp-block-column&quot;]/div[@class=&quot;is-layout-flex wp-container-8 wp-block-columns&quot;]/div[@class=&quot;is-layout-flow wp-block-column&quot;]/p[1]</value>
+      <webElementGuid>abbdc7c5-3e4b-4726-900e-0a725387025e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='block-3']/div/div/div/div/p</value>
+      <webElementGuid>74c6caff-dba5-410e-b72a-dfceca408a11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div/div/p</value>
+      <webElementGuid>6d630ddf-ab2b-45cc-8720-c351a63dc63e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'POSTADRESBloemstraat 8b 6851 CS Huissen' or . = 'POSTADRESBloemstraat 8b 6851 CS Huissen')]</value>
+      <webElementGuid>27bffca1-34ed-465f-917c-6268a28effff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>c5250d27-408f-4b6f-a899-bcef79e1b1e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>path</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>e9247e28-a811-430d-892d-f509797ca0fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M3 13h18c0.552 0 1-0.448 1-1s-0.448-1-1-1h-18c-0.552 0-1 0.448-1 1s0.448 1 1 1zM3 7h18c0.552 0 1-0.448 1-1s-0.448-1-1-1h-18c-0.552 0-1 0.448-1 1s0.448 1 1 1zM3 19h18c0.552 0 1-0.448 1-1s-0.448-1-1-1h-18c-0.552 0-1 0.448-1 1s0.448 1 1 1z</value>
+      <webElementGuid>5a7f3e11-7abd-4d50-bf26-d2cd27f03e6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ast-mobile-header&quot;)/div[@class=&quot;ast-main-header-wrap main-header-bar-wrap&quot;]/div[@class=&quot;ast-primary-header-bar ast-primary-header main-header-bar site-primary-header-wrap site-header-focus-item ast-builder-grid-row-layout-default ast-builder-grid-row-tablet-layout-default ast-builder-grid-row-mobile-layout-default&quot;]/div[@class=&quot;ast-builder-grid-row ast-builder-grid-row-has-sides ast-builder-grid-row-no-center&quot;]/div[@class=&quot;site-header-primary-section-right site-header-section ast-flex ast-grid-right-section&quot;]/div[@class=&quot;ast-builder-layout-element ast-flex site-header-focus-item&quot;]/div[@class=&quot;ast-button-wrap&quot;]/button[@class=&quot;menu-toggle main-header-menu-toggle ast-mobile-menu-trigger-fill&quot;]/span[@class=&quot;mobile-menu-toggle-icon&quot;]/span[@class=&quot;ahfb-svg-iconset ast-inline-flex svg-baseline&quot;]/svg[@class=&quot;ast-mobile-svg ast-menu-svg&quot;]/path[1]</value>
+      <webElementGuid>18dace50-1d94-498b-8cce-c62a031c9e62</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

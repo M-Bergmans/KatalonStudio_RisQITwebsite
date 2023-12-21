@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_MobileMenu_ContactOpnemen</name>
+   <tag></tag>
+   <elementGuidId>64679ef2-b3f7-48de-8ea0-9ef8dfedcb0b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ast-mobile-popup']/div[2]/div[2]/div[2]/div/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ast-mobile-popup-content > div.ast-builder-layout-element.ast-flex.site-header-focus-item.ast-header-button-1 > div.ast-builder-button-wrap.ast-builder-button-size-sm > a.ast-custom-button-link > div.ast-custom-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>46aac124-17d9-4740-aa36-851ae45ea2ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ast-custom-button</value>
+      <webElementGuid>1a072957-fc33-4973-9e15-209241751ba7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Contact opnemen</value>
+      <webElementGuid>1e50b56c-6d0d-4ba4-8cd1-dd6682807d4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ast-mobile-popup&quot;)/div[@class=&quot;ast-mobile-popup-inner&quot;]/div[@class=&quot;ast-mobile-popup-content&quot;]/div[@class=&quot;ast-builder-layout-element ast-flex site-header-focus-item ast-header-button-1&quot;]/div[@class=&quot;ast-builder-button-wrap ast-builder-button-size-sm&quot;]/a[@class=&quot;ast-custom-button-link&quot;]/div[@class=&quot;ast-custom-button&quot;]</value>
+      <webElementGuid>66f6543e-aa24-406d-9850-bb99c1ddb5ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ast-mobile-popup']/div[2]/div[2]/div[2]/div/a/div</value>
+      <webElementGuid>cb673d4e-763e-4c45-a580-2947f8bb3052</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div/a/div</value>
+      <webElementGuid>adaf7a58-aa48-4e20-8766-15385b3bbcc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Contact opnemen' or . = 'Contact opnemen')]</value>
+      <webElementGuid>3196e210-b631-48f0-9039-0c50271dc51b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
