@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
-   <description></description>
-   <name>TS02 MenuMobile</name>
+   <description>Checks the footer on every page.&#xd;
+Address, phone &amp; mail address.&#xd;
+External links (socials) open in a new window.&#xd;
+URLs are present.</description>
+   <name>TS03 Footer</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,96 +13,96 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>4f4cf0ac-299e-4134-9cb6-bde725ca6dd3</testSuiteGuid>
+   <testSuiteGuid>e3ef6ca0-9bd8-49ce-b06e-c94cf345bc48</testSuiteGuid>
    <testCaseLink>
-      <guid>839c767b-fee0-42f3-92e8-089da6c52c2e</guid>
+      <guid>683a9922-6523-4301-a7b4-e685f8c51b14</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/02. Mobile Menu/RT016 MobileMenu - Homepage</testCaseId>
+      <testCaseId>Test Cases/03. Footer/RT029 Footer - Homepage</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>343c9d47-1605-409b-83a7-3a8d5ec0da68</guid>
+      <guid>36e9ebfd-f22a-4b92-85dc-3070a5a9690a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/02. Mobile Menu/RT017 MobileMenu - SoftwareTesting</testCaseId>
+      <testCaseId>Test Cases/03. Footer/RT030 Footer - SoftwareTesting</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>19841574-ce8e-46a4-9391-5f95650cdc5d</guid>
+      <guid>c722d13f-7116-41e5-82d3-b06df10a3225</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/02. Mobile Menu/RT018 MobileMenu - SHT</testCaseId>
+      <testCaseId>Test Cases/03. Footer/RT031 Footer - SHT</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>56662787-e0ca-449f-94da-092e4052fff0</guid>
+      <guid>03e8c04b-0a0b-4283-a858-343492f96560</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/02. Mobile Menu/RT019 MobileMenu - UX-Lab</testCaseId>
+      <testCaseId>Test Cases/03. Footer/RT032 Footer - UX-Lab</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>180359c8-5e29-4ada-a389-5ff2ef14dd8b</guid>
+      <guid>5140a255-baf6-4723-b864-399b03150d4e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/02. Mobile Menu/RT020 MobileMenu - Over Ons</testCaseId>
+      <testCaseId>Test Cases/03. Footer/RT033 Footer - Over Ons</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>2fc53949-e792-4173-873d-9a760b132517</guid>
+      <guid>e84b3c89-bcdb-417e-bc6c-cf744b1d9c48</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/02. Mobile Menu/RT021 MobileMenu - Missie_Visie</testCaseId>
+      <testCaseId>Test Cases/03. Footer/RT034 Footer - Missie_Visie</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>deac8157-258a-4cd5-b69d-2911c898120d</guid>
+      <guid>de4e816b-ce45-40f3-a951-298d67f3cf5e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/02. Mobile Menu/RT022 MobileMenu - Het Gilde</testCaseId>
+      <testCaseId>Test Cases/03. Footer/RT035 Footer - Het Gilde</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>99c4a147-6690-414e-b64b-fbfb4325b814</guid>
+      <guid>1218cbe7-eea3-433f-80d4-bb64eac61f48</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/02. Mobile Menu/RT023 MobileMenu - SuperTester</testCaseId>
+      <testCaseId>Test Cases/03. Footer/RT036 Footer - SuperTester</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>8db36bb3-4e11-450e-b806-32b0fe96e436</guid>
+      <guid>a94c6316-c3f7-4e92-90fd-426601740975</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/02. Mobile Menu/RT024 MobileMenu - Blog</testCaseId>
+      <testCaseId>Test Cases/03. Footer/RT037 Footer - Blog</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>dd5d6c04-1419-4347-b135-3f8032d3d2f4</guid>
+      <guid>d5ce8d34-75f0-4514-ae14-6e4edc0e103a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/02. Mobile Menu/RT025 MobileMenu - Vacatures</testCaseId>
+      <testCaseId>Test Cases/03. Footer/RT038 Footer - Vacatures</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>922d1b78-a8fe-4bdd-8229-55dc1ca0ac9c</guid>
+      <guid>23b46b94-b934-458d-8613-bafb8f590d35</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/02. Mobile Menu/RT026 MobileMenu - Contact</testCaseId>
+      <testCaseId>Test Cases/03. Footer/RT039 Footer - Contact</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>e21c59af-0c2e-45dd-9dae-3b61ce07d54c</guid>
+      <guid>2dfbb3e6-16cc-4f17-98d3-47b1e8f26ec1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/02. Mobile Menu/RT027 MobileMenu - AlgVoorwaarden</testCaseId>
+      <testCaseId>Test Cases/03. Footer/RT040 Footer - AlgVoorwaarden</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>fbb463db-f888-444e-b05a-9b9463c2bd99</guid>
+      <guid>9390e3a7-7211-4a2f-9c9e-b6f6310cb207</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/02. Mobile Menu/RT028 MobileMenu - Privacybeleid</testCaseId>
+      <testCaseId>Test Cases/03. Footer/RT041 Footer - Privacybeleid</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

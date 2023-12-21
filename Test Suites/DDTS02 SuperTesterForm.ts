@@ -15,7 +15,7 @@
       <guid>5399664b-967a-4297-a7b0-32b312451ce2</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Forms/RT015 SuperTesterForm</testCaseId>
+      <testCaseId>Test Cases/04. Forms/RT015 SuperTesterForm</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>900b1f5c-0b9c-4670-8c11-c02dbf92d6da</id>
