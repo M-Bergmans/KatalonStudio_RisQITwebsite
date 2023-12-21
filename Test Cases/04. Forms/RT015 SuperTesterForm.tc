@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RT015 SuperTesterForm</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>343c2ecd-adf6-4527-86d3-0533ddcc800c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fd585613-1a7f-4eb1-bfc0-3fc60cdecfe9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c2813e02-c7ac-481a-94b3-4e205a0646be</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>44379b88-8666-4e76-a5e6-593cb3e79d96</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>34515f34-da6d-4ee2-95cd-b28357c0c3e8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a00b6d7c-fe14-4301-9ef3-c5f8696b2d69</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'test@test.test'</defaultValue>
+      <description></description>
+      <id>fd585613-1a7f-4eb1-bfc0-3fc60cdecfe9</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'0612345678'</defaultValue>
+      <description></description>
+      <id>c2813e02-c7ac-481a-94b3-4e205a0646be</id>
+      <masked>false</masked>
+      <name>Telefoon</name>
+   </variable>
+   <variable>
+      <defaultValue>'TestPiet'</defaultValue>
+      <description></description>
+      <id>44379b88-8666-4e76-a5e6-593cb3e79d96</id>
+      <masked>false</masked>
+      <name>Voornaam</name>
+   </variable>
+   <variable>
+      <defaultValue>'de Tester'</defaultValue>
+      <description></description>
+      <id>34515f34-da6d-4ee2-95cd-b28357c0c3e8</id>
+      <masked>false</masked>
+      <name>Achternaam</name>
+   </variable>
+   <variable>
+      <defaultValue>'Testers &amp; Co'</defaultValue>
+      <description></description>
+      <id>a00b6d7c-fe14-4301-9ef3-c5f8696b2d69</id>
+      <masked>false</masked>
+      <name>Bedrijf</name>
+   </variable>
+</TestCaseEntity>
